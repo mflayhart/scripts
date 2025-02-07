@@ -363,7 +363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8892?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/matte-bc.png",
 	"sizes_related": "2x3.5"
   },
   257: {
@@ -393,7 +393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/257?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   7406: {
@@ -423,7 +423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/7406?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   5264: {
@@ -453,7 +453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/5264?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8835: {
@@ -483,7 +483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8835?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8855: {
@@ -513,7 +513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8855?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8884: {
@@ -543,7 +543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8884?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8910: {
@@ -573,7 +573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8910?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8900: {
@@ -603,7 +603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8900?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8949: {
@@ -633,7 +633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8949?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   8969: {
@@ -663,7 +663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/8969?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   9001: {
@@ -693,7 +693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/9001?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-bc.png",
 	"sizes_related": "2x3.5"
   },
   4265: {
@@ -723,7 +723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/4265?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-bc.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   1414: {
@@ -753,7 +753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/33/1414?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/linen-bc.png",
 	"sizes_related": "2x3.5"
   },
   4939: {
@@ -783,7 +783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/4939?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "2x3.5, 2.125x3.375, 2.5x2.5"
   },
   2076: {
@@ -813,7 +813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2076?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2101: {
@@ -843,7 +843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2101?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   3484: {
@@ -873,7 +873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/85/3484?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/silk-bc.png",
 	"sizes_related": "2x3.5"
   },
   3658: {
@@ -903,7 +903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/85/3658?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/silk-bc.png",
 	"sizes_related": "2x3.5"
   },
   3800: {
@@ -933,7 +933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/88/3800?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/suede-bc.png",
 	"sizes_related": "2x3.5"
   },
   3835: {
@@ -963,7 +963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/88/3835?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/suede-bc.png",
 	"sizes_related": "2x3.5"
   },
   733: {
@@ -993,7 +993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/45/733?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/waterproof-bc.png",
 	"sizes_related": "2x3.5"
   },
   1154: {
@@ -1023,7 +1023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/51/1154?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/hot-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   1159: {
@@ -1053,7 +1053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/51/1159?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/hot-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   1210: {
@@ -1083,7 +1083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/51/1210?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/hot-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   40: {
@@ -1113,7 +1113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/29/40?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/inline-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   64: {
@@ -1143,7 +1143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/29/64?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/inline-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   8597: {
@@ -1173,7 +1173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/29/8597?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/inline-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   8625: {
@@ -1203,7 +1203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/29/8625?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/inline-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   6893: {
@@ -1233,7 +1233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/107/6893?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/raised-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   4666: {
@@ -1263,7 +1263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/107/4666?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/raised-foil-bc.png",
 	"sizes_related": "2x3.5"
   },
   6862: {
@@ -1293,7 +1293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6862?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2x3.5"
   },
   1536: {
@@ -1323,7 +1323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1536?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2x3.5"
   },
   6883: {
@@ -1353,7 +1353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6883?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2x3.5"
   },
   1551: {
@@ -1383,7 +1383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1551?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2x3.5"
   },
   2128: {
@@ -1413,7 +1413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2128?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x3.5"
   },
   2119: {
@@ -1443,7 +1443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2119?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x3.5"
   },
   2110: {
@@ -1473,7 +1473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2110?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x3.5"
   },
   5448: {
@@ -1503,7 +1503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/108/5448?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/raised-spot-uv-bc.png",
 	"sizes_related": "2x3.5"
   },
   823: {
@@ -1533,7 +1533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/823?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   795: {
@@ -1553,7 +1553,7 @@ const kpValueId = {
 	"coating_type_ID": 2205,
 	"coating_type_related": [159,2205],
 	"size_option_PB": "4.5x12",
-	"size_option_KP": "=",
+	"size_option_KP": "4.5x12",
 	"cover_material_PB": null,
 	"cover_material_KP": null,
 	"cover_material_ID": null,
@@ -1563,7 +1563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/795?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   796: {
@@ -1593,7 +1593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/796?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   797: {
@@ -1623,7 +1623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/797?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   798: {
@@ -1653,7 +1653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/798?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   799: {
@@ -1683,7 +1683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/799?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   800: {
@@ -1713,7 +1713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/800?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   801: {
@@ -1743,7 +1743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/801?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   802: {
@@ -1773,7 +1773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/802?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   803: {
@@ -1803,7 +1803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/803?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   804: {
@@ -1833,7 +1833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/804?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   805: {
@@ -1863,7 +1863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/805?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   806: {
@@ -1893,7 +1893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/806?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   807: {
@@ -1923,7 +1923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/807?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   808: {
@@ -1953,7 +1953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/808?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   809: {
@@ -1983,7 +1983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/809?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   810: {
@@ -2013,7 +2013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/810?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   811: {
@@ -2043,7 +2043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/811?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   812: {
@@ -2073,7 +2073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/812?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   813: {
@@ -2103,7 +2103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/813?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   814: {
@@ -2133,7 +2133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/814?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   815: {
@@ -2163,7 +2163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/815?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   816: {
@@ -2193,7 +2193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/816?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 8.5x11, 8.5x14, 7x8.5, 8x10, 6.5x8, 9x11, 9x12"
   },
   817: {
@@ -2223,7 +2223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/817?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   818: {
@@ -2253,7 +2253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/818?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   819: {
@@ -2283,7 +2283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/819?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   820: {
@@ -2313,7 +2313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/820?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   821: {
@@ -2343,7 +2343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/821?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   822: {
@@ -2373,7 +2373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/822?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   824: {
@@ -2403,7 +2403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/824?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   825: {
@@ -2433,7 +2433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/825?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   826: {
@@ -2463,7 +2463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/826?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   827: {
@@ -2493,7 +2493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/827?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   828: {
@@ -2523,7 +2523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/828?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   850: {
@@ -2553,7 +2553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/850?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   851: {
@@ -2583,7 +2583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/851?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   852: {
@@ -2613,7 +2613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/852?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   853: {
@@ -2643,7 +2643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/853?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   854: {
@@ -2673,7 +2673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/854?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   855: {
@@ -2703,7 +2703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/855?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   874: {
@@ -2733,7 +2733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/874?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   875: {
@@ -2763,7 +2763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/875?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   876: {
@@ -2793,7 +2793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/876?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   877: {
@@ -2823,7 +2823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/877?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   878: {
@@ -2853,7 +2853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/878?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   879: {
@@ -2883,7 +2883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/48/879?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_eddm.png",
 	"sizes_related": "4.5x12, 6.5x12, 6.5x9, 6x12, 7x8.5, 6.5x8"
   },
   1736: {
@@ -2913,7 +2913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1736?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4059: {
@@ -2943,7 +2943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4059?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   4058: {
@@ -2973,7 +2973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4058?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   4060: {
@@ -3003,7 +3003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4060?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   4061: {
@@ -3033,7 +3033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4061?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1726: {
@@ -3063,7 +3063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1726?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4062: {
@@ -3093,7 +3093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4062?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1737: {
@@ -3123,7 +3123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1737?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1727: {
@@ -3153,7 +3153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1727?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4063: {
@@ -3183,7 +3183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4063?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1728: {
@@ -3213,7 +3213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1728?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4064: {
@@ -3243,7 +3243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4064?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   4065: {
@@ -3273,7 +3273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4065?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1730: {
@@ -3303,7 +3303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1730?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1738: {
@@ -3333,7 +3333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1738?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4066: {
@@ -3363,7 +3363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4066?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1731: {
@@ -3393,7 +3393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1731?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1739: {
@@ -3423,7 +3423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1739?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1732: {
@@ -3453,7 +3453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1732?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1740: {
@@ -3483,7 +3483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1740?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1733: {
@@ -3513,7 +3513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1733?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1741: {
@@ -3543,7 +3543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1741?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1734: {
@@ -3573,7 +3573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1734?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1742: {
@@ -3603,7 +3603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1742?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1743: {
@@ -3633,7 +3633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1743?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1744: {
@@ -3663,7 +3663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1744?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1745: {
@@ -3693,7 +3693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1745?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1746: {
@@ -3723,7 +3723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1746?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1747: {
@@ -3753,7 +3753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1747?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4235: {
@@ -3783,7 +3783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4235?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   1748: {
@@ -3813,7 +3813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1748?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4236: {
@@ -3843,7 +3843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4236?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   1749: {
@@ -3873,7 +3873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1749?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   4237: {
@@ -3903,7 +3903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/4237?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   1750: {
@@ -3933,7 +3933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1750?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1751: {
@@ -3963,7 +3963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1751?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   1756: {
@@ -3993,7 +3993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1756?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1757: {
@@ -4023,7 +4023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1757?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1760: {
@@ -4053,7 +4053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1760?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1763: {
@@ -4083,7 +4083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1763?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1764: {
@@ -4113,7 +4113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1764?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1769: {
@@ -4143,7 +4143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1769?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1770: {
@@ -4173,7 +4173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1770?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1773: {
@@ -4203,7 +4203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1773?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   1775: {
@@ -4233,7 +4233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1775?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1776: {
@@ -4263,7 +4263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1776?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1777: {
@@ -4293,7 +4293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1777?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1778: {
@@ -4323,7 +4323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1778?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1779: {
@@ -4353,7 +4353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1779?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1780: {
@@ -4383,7 +4383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1780?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1781: {
@@ -4413,7 +4413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1781?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1782: {
@@ -4443,7 +4443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1782?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1783: {
@@ -4473,7 +4473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1783?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1784: {
@@ -4503,7 +4503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1784?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1785: {
@@ -4533,7 +4533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1785?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1786: {
@@ -4563,7 +4563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1786?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1787: {
@@ -4593,7 +4593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1787?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   1789: {
@@ -4623,7 +4623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1789?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   1790: {
@@ -4653,7 +4653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1790?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   1792: {
@@ -4683,7 +4683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1792?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   1793: {
@@ -4713,7 +4713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1793?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   1794: {
@@ -4743,7 +4743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/1794?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5488: {
@@ -4773,7 +4773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5488?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5489: {
@@ -4803,7 +4803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5489?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5490: {
@@ -4833,7 +4833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5490?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5491: {
@@ -4863,7 +4863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5491?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5492: {
@@ -4893,7 +4893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5492?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5493: {
@@ -4923,7 +4923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5493?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5494: {
@@ -4953,7 +4953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5494?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5495: {
@@ -4983,7 +4983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5495?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5496: {
@@ -5013,7 +5013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5496?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5497: {
@@ -5043,7 +5043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5497?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "6x9, 8.5x11, 8.5x5.5"
   },
   5498: {
@@ -5073,7 +5073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5498?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   5499: {
@@ -5103,7 +5103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/5499?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   7289: {
@@ -5133,7 +5133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7289?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7290: {
@@ -5163,7 +5163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7290?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7291: {
@@ -5193,7 +5193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7291?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7292: {
@@ -5223,7 +5223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7292?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7293: {
@@ -5253,7 +5253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7293?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7294: {
@@ -5283,7 +5283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7294?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7295: {
@@ -5313,7 +5313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7295?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7296: {
@@ -5343,7 +5343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7296?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7297: {
@@ -5373,7 +5373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7297?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7298: {
@@ -5403,7 +5403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7298?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7299: {
@@ -5433,7 +5433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7299?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7300: {
@@ -5463,7 +5463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7300?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7301: {
@@ -5493,7 +5493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7301?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7302: {
@@ -5523,7 +5523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7302?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7303: {
@@ -5553,7 +5553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7303?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7304: {
@@ -5583,7 +5583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7304?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   7305: {
@@ -5613,7 +5613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/7305?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8700: {
@@ -5643,7 +5643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8700?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8701: {
@@ -5673,7 +5673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8701?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8702: {
@@ -5703,7 +5703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8702?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8703: {
@@ -5733,7 +5733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8703?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8704: {
@@ -5763,7 +5763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8704?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8705: {
@@ -5793,7 +5793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8705?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8706: {
@@ -5823,7 +5823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8706?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8707: {
@@ -5853,7 +5853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8707?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8708: {
@@ -5883,7 +5883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8708?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8709: {
@@ -5913,7 +5913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8709?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8710: {
@@ -5943,7 +5943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8710?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8711: {
@@ -5973,7 +5973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8711?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   8712: {
@@ -6003,7 +6003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/8712?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 6x9, 8.5x5.5"
   },
   17792: {
@@ -6033,7 +6033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17792?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17793: {
@@ -6063,7 +6063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17793?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17794: {
@@ -6093,7 +6093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17794?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17795: {
@@ -6123,7 +6123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17795?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17796: {
@@ -6153,7 +6153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17796?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17797: {
@@ -6183,7 +6183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17797?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17798: {
@@ -6213,7 +6213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17798?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17799: {
@@ -6243,7 +6243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17799?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17800: {
@@ -6273,7 +6273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17800?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   17801: {
@@ -6303,7 +6303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/17801?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   34576: {
@@ -6333,7 +6333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/34576?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   35553: {
@@ -6363,7 +6363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/35553?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   35554: {
@@ -6393,7 +6393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/35554?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   35555: {
@@ -6423,7 +6423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/35555?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   35556: {
@@ -6453,7 +6453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/35556?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   35557: {
@@ -6483,7 +6483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/35557?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   35558: {
@@ -6513,12 +6513,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/97/35558?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/booklet.png",
 	"sizes_related": "8.5x11, 8.5x5.5, 6x9"
   },
   550: {
 	"product_id": 550,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6543,12 +6543,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/550?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   517: {
 	"product_id": 517,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6573,12 +6573,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/517?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   509: {
 	"product_id": 509,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6603,12 +6603,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/509?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   510: {
 	"product_id": 510,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6633,12 +6633,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/510?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   511: {
 	"product_id": 511,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6663,12 +6663,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/511?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   512: {
 	"product_id": 512,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6693,12 +6693,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/512?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   513: {
 	"product_id": 513,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6723,12 +6723,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/513?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   514: {
 	"product_id": 514,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6753,12 +6753,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/514?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   515: {
 	"product_id": 515,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6783,12 +6783,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/515?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   516: {
 	"product_id": 516,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6813,12 +6813,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/516?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   518: {
 	"product_id": 518,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6843,12 +6843,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/518?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   519: {
 	"product_id": 519,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6873,12 +6873,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/519?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   520: {
 	"product_id": 520,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6903,12 +6903,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/520?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   521: {
 	"product_id": 521,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6933,12 +6933,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/521?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   522: {
 	"product_id": 522,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6963,12 +6963,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/522?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   523: {
 	"product_id": 523,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -6993,12 +6993,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/523?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   524: {
 	"product_id": 524,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7023,12 +7023,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/524?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   525: {
 	"product_id": 525,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7053,12 +7053,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/525?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   526: {
 	"product_id": 526,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7083,12 +7083,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/526?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   527: {
 	"product_id": 527,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7113,12 +7113,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/527?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   528: {
 	"product_id": 528,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7143,12 +7143,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/528?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   529: {
 	"product_id": 529,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7173,12 +7173,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/529?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   530: {
 	"product_id": 530,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7203,12 +7203,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/530?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   531: {
 	"product_id": 531,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7233,12 +7233,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/531?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   532: {
 	"product_id": 532,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7263,12 +7263,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/532?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   533: {
 	"product_id": 533,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7293,12 +7293,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/533?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   534: {
 	"product_id": 534,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7323,12 +7323,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/534?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   535: {
 	"product_id": 535,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7353,12 +7353,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/535?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   536: {
 	"product_id": 536,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7383,12 +7383,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/536?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   537: {
 	"product_id": 537,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7413,12 +7413,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/537?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   538: {
 	"product_id": 538,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7443,12 +7443,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/538?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   539: {
 	"product_id": 539,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7473,12 +7473,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/539?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   540: {
 	"product_id": 540,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7503,12 +7503,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/540?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   542: {
 	"product_id": 542,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7533,12 +7533,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/542?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   543: {
 	"product_id": 543,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7563,12 +7563,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/543?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   544: {
 	"product_id": 544,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7593,12 +7593,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/544?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   545: {
 	"product_id": 545,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7623,12 +7623,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/545?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   546: {
 	"product_id": 546,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7653,12 +7653,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/546?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   547: {
 	"product_id": 547,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7683,12 +7683,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/547?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   548: {
 	"product_id": 548,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7713,12 +7713,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/548?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   549: {
 	"product_id": 549,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7743,12 +7743,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/549?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   551: {
 	"product_id": 551,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7773,12 +7773,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/551?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   552: {
 	"product_id": 552,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7803,12 +7803,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/552?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   553: {
 	"product_id": 553,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7833,12 +7833,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/553?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   559: {
 	"product_id": 559,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7863,12 +7863,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/559?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   560: {
 	"product_id": 560,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7893,12 +7893,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/560?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   561: {
 	"product_id": 561,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7923,12 +7923,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/561?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   562: {
 	"product_id": 562,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7953,12 +7953,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/562?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x5.5, 8.5x11"
   },
   563: {
 	"product_id": 563,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -7983,12 +7983,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/563?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   564: {
 	"product_id": 564,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8013,12 +8013,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/564?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   565: {
 	"product_id": 565,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8043,12 +8043,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/565?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   566: {
 	"product_id": 566,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8073,12 +8073,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/566?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   567: {
 	"product_id": 567,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8103,12 +8103,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/567?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   568: {
 	"product_id": 568,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8133,12 +8133,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/568?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   569: {
 	"product_id": 569,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8163,12 +8163,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/569?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   570: {
 	"product_id": 570,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8193,12 +8193,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/570?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   571: {
 	"product_id": 571,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8223,12 +8223,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/571?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   572: {
 	"product_id": 572,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8253,12 +8253,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/572?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   573: {
 	"product_id": 573,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8283,12 +8283,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/573?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   574: {
 	"product_id": 574,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8313,12 +8313,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/574?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   575: {
 	"product_id": 575,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8343,12 +8343,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/575?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   576: {
 	"product_id": 576,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8373,12 +8373,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/576?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   577: {
 	"product_id": 577,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8403,12 +8403,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/577?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
-  }
+  },
   4331: {
 	"product_id": 4331,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8433,12 +8433,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/4331?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   4332: {
 	"product_id": 4332,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8463,12 +8463,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/4332?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   4333: {
 	"product_id": 4333,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8493,12 +8493,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/4333?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   4334: {
 	"product_id": 4334,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8523,12 +8523,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/4334?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   4335: {
 	"product_id": 4335,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8553,12 +8553,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/4335?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   4336: {
 	"product_id": 4336,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8583,12 +8583,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/4336?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5536: {
 	"product_id": 5536,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8613,12 +8613,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": [10215,10203],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/5536?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5537: {
 	"product_id": 5537,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8643,12 +8643,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/5537?dp=1",
-	"img": null,
-	"sizes_related": "8.5x5.5, 8.5x11"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5538: {
 	"product_id": 5538,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8673,12 +8673,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/5538?dp=1",
-	"img": null,
-	"sizes_related": "8.5x5.5, 8.5x11"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5539: {
 	"product_id": 5539,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8703,12 +8703,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/5539?dp=1",
-	"img": null,
-	"sizes_related": "8.5x5.5, 8.5x11"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5540: {
 	"product_id": 5540,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8733,12 +8733,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/5540?dp=1",
-	"img": null,
-	"sizes_related": "8.5x5.5, 8.5x11"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x11, 8.5x5.5"
   },
   5541: {
 	"product_id": 5541,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8763,12 +8763,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/5541?dp=1",
-	"img": null,
-	"sizes_related": "8.5x5.5, 8.5x11"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9011: {
 	"product_id": 9011,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8793,12 +8793,12 @@ const kpValueId = {
 	"cover_coating_ID": "10203",
 	"cover_coating_related": "[10203] ",
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9011?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9012: {
 	"product_id": 9012,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8823,12 +8823,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9012?dp=1",
-	"img": null,
-	"sizes_related": "8.5x11, 8.5x5.5"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x5.5, 8.5x11"
   },
   9013: {
 	"product_id": 9013,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8853,12 +8853,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9013?dp=1",
-	"img": null,
-	"sizes_related": "8.5x11, 8.5x5.5"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x5.5, 8.5x11"
   },
   9014: {
 	"product_id": 9014,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8883,12 +8883,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9014?dp=1",
-	"img": null,
-	"sizes_related": "8.5x11, 8.5x5.5"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x5.5, 8.5x11"
   },
   9015: {
 	"product_id": 9015,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8913,12 +8913,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9015?dp=1",
-	"img": null,
-	"sizes_related": "8.5x11, 8.5x5.5"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x5.5, 8.5x11"
   },
   9016: {
 	"product_id": 9016,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8943,12 +8943,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9016?dp=1",
-	"img": null,
-	"sizes_related": "8.5x11, 8.5x5.5"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
+	"sizes_related": "8.5x5.5, 8.5x11"
   },
   9017: {
 	"product_id": 9017,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -8973,12 +8973,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9017?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9018: {
 	"product_id": 9018,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9003,12 +9003,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9018?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9019: {
 	"product_id": 9019,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9033,12 +9033,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9019?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9020: {
 	"product_id": 9020,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9063,12 +9063,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9020?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9021: {
 	"product_id": 9021,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9093,12 +9093,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9021?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9022: {
 	"product_id": 9022,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9123,12 +9123,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9022?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9023: {
 	"product_id": 9023,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9153,12 +9153,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9023?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9024: {
 	"product_id": 9024,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9183,12 +9183,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9024?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9025: {
 	"product_id": 9025,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9213,12 +9213,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9025?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9026: {
 	"product_id": 9026,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9243,12 +9243,12 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9026?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   9027: {
 	"product_id": 9027,
-	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
+	"product_id_related": [550,517,509,510,511,512,513,514,515,516,518,519,520,521,522,523,524,525,526,527,528,529,530,531,532,533,534,535,536,537,538,539,540,542,543,544,545,546,547,548,549,551,552,553,559,560,561,562,563,564,565,566,567,568,569,570,571,572,573,574,575,576,577,4325,4326,4327,4328,4329,4330,4331,4332,4333,4334,4335,4336,5536,5537,5538,5539,5540,5541,9011,9012,9013,9014,9015,9016,9017,9018,9019,9020,9021,9022,9023,9024,9025,9026,9027],
 	"category": "OUTREACH PRODUCTS",
 	"sub_category": "CATALOGS (thick cover)",
 	"nested_name": "Catalogs (Thick Cover)",
@@ -9273,7 +9273,7 @@ const kpValueId = {
 	"cover_coating_ID": "10215",
 	"cover_coating_related": [10215],
 	"url": "https://store.kingdom-print.com/store/product-view.html/38/9027?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/catalog.png",
 	"sizes_related": "8.5x11, 8.5x5.5"
   },
   496: {
@@ -9303,7 +9303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/496?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   491: {
@@ -9333,7 +9333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/491?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   492: {
@@ -9363,7 +9363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/492?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   498: {
@@ -9393,7 +9393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/498?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   500: {
@@ -9423,7 +9423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/500?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   497: {
@@ -9453,7 +9453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/497?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   499: {
@@ -9483,7 +9483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/499?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   501: {
@@ -9513,7 +9513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/501?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   502: {
@@ -9543,7 +9543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/36/502?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/calendar.png",
 	"sizes_related": "8.5x11, 12x12, 9x12"
   },
   679: {
@@ -9573,7 +9573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/679?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 4x7, 3.5x8.5"
   },
   683: {
@@ -9603,7 +9603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/683?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 3.5x8.5, 4x7"
   },
   693: {
@@ -9633,7 +9633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/693?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 3.5x8.5, 4x7"
   },
   680: {
@@ -9663,7 +9663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/680?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 4x7, 3.5x8.5"
   },
   681: {
@@ -9693,7 +9693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/681?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 4x7, 3.5x8.5"
   },
   4772: {
@@ -9723,7 +9723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/4772?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 4x7, 3.5x8.5"
   },
   9832: {
@@ -9753,7 +9753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9832?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "3.5x8.5, 4.25x11"
   },
   9833: {
@@ -9783,7 +9783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9833?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "3.5x8.5, 4.25x11"
   },
   9836: {
@@ -9813,7 +9813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9836?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 3.5x8.5, 4x7"
   },
   9837: {
@@ -9843,7 +9843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9837?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 3.5x8.5, 4x7"
   },
   9838: {
@@ -9873,7 +9873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9838?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x11, 4.25x14, 3.5x8.5, 4x7"
   },
   9845: {
@@ -9903,7 +9903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9845?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "3.5x8.5, 4.25x11"
   },
   9846: {
@@ -9933,7 +9933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9846?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "3.5x8.5, 4.25x11"
   },
   9847: {
@@ -9963,7 +9963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9847?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "3.5x8.5, 4.25x11"
   },
   9848: {
@@ -9993,7 +9993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9848?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "3.5x8.5, 4.25x11"
   },
   9850: {
@@ -10023,7 +10023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9850?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x14, 3.5x8.5, 4x7"
   },
   9851: {
@@ -10053,7 +10053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9851?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x14, 3.5x8.5, 4x7"
   },
   9852: {
@@ -10083,7 +10083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/43/9852?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/door-hanger.png",
 	"sizes_related": "4.25x14, 3.5x8.5, 4x7"
   },
   46027: {
@@ -10113,7 +10113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/293/46027?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-tent.png",
 	"sizes_related": "120x120"
   },
   767: {
@@ -10143,7 +10143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/767?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   768: {
@@ -10173,7 +10173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/768?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   4035: {
@@ -10203,7 +10203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4035?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4036: {
@@ -10233,7 +10233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4036?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   4356: {
@@ -10263,7 +10263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4356?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4360: {
@@ -10293,7 +10293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4360?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4361: {
@@ -10323,7 +10323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4361?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4365: {
@@ -10353,7 +10353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4365?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4366: {
@@ -10383,7 +10383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4366?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4367: {
@@ -10413,7 +10413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4367?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5X11, 3.5x8.5, 4.25X11"
   },
   4368: {
@@ -10443,7 +10443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4368?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   4371: {
@@ -10473,7 +10473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4371?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   4372: {
@@ -10503,7 +10503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4372?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   4377: {
@@ -10533,7 +10533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/47/4377?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/event-ticket.png",
 	"sizes_related": "3.5X11, 4.25X11, 2x7, 2.75x5.5, 2.75x8.5, 2x5.5, 3.5x8.5"
   },
   969: {
@@ -10563,7 +10563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/969?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1041: {
@@ -10593,7 +10593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1041?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1067: {
@@ -10623,7 +10623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1067?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   954: {
@@ -10653,7 +10653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/954?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   955: {
@@ -10683,7 +10683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/955?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   956: {
@@ -10713,7 +10713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/956?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   957: {
@@ -10743,7 +10743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/957?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   958: {
@@ -10773,7 +10773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/958?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   959: {
@@ -10803,7 +10803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/959?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   960: {
@@ -10833,7 +10833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/960?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   961: {
@@ -10863,7 +10863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/961?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   962: {
@@ -10893,7 +10893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/962?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   963: {
@@ -10923,7 +10923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/963?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   964: {
@@ -10953,7 +10953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/964?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   965: {
@@ -10983,7 +10983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/965?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   966: {
@@ -11013,7 +11013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/966?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   967: {
@@ -11043,7 +11043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/967?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   968: {
@@ -11073,7 +11073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/968?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   970: {
@@ -11103,7 +11103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/970?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   971: {
@@ -11133,7 +11133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/971?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   972: {
@@ -11163,7 +11163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/972?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   973: {
@@ -11193,7 +11193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/973?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   974: {
@@ -11223,7 +11223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/974?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   975: {
@@ -11253,7 +11253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/975?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   976: {
@@ -11283,7 +11283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/976?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   977: {
@@ -11313,7 +11313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/977?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   978: {
@@ -11343,7 +11343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/978?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   979: {
@@ -11373,7 +11373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/979?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 4x9, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x10, 4x11, 4x15, 4x6, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1027: {
@@ -11403,7 +11403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1027?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1028: {
@@ -11433,7 +11433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1028?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1029: {
@@ -11463,7 +11463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1029?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1031: {
@@ -11493,7 +11493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1031?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1032: {
@@ -11523,7 +11523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1032?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1033: {
@@ -11553,7 +11553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1033?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1034: {
@@ -11583,7 +11583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1034?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1035: {
@@ -11613,7 +11613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1035?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1036: {
@@ -11643,7 +11643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1036?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1037: {
@@ -11673,7 +11673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1037?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1038: {
@@ -11703,7 +11703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1038?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1039: {
@@ -11733,7 +11733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1039?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1040: {
@@ -11763,7 +11763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1040?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1042: {
@@ -11793,7 +11793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1042?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1043: {
@@ -11823,7 +11823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1043?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1044: {
@@ -11853,7 +11853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1044?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1045: {
@@ -11883,7 +11883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1045?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1046: {
@@ -11913,7 +11913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1046?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1047: {
@@ -11943,7 +11943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1047?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1048: {
@@ -11973,7 +11973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1048?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1049: {
@@ -12003,7 +12003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1049?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1050: {
@@ -12033,7 +12033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1050?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1051: {
@@ -12063,7 +12063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1051?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x18, 17x22, 4.25x11, 4.25x12, 4.25x5.5, 4x11, 4x6, 4x9, 5.5x17, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1053: {
@@ -12093,7 +12093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1053?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1054: {
@@ -12123,7 +12123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1054?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1055: {
@@ -12153,7 +12153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1055?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1056: {
@@ -12183,7 +12183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1056?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1057: {
@@ -12213,7 +12213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1057?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1058: {
@@ -12243,7 +12243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1058?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1059: {
@@ -12273,7 +12273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1059?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1060: {
@@ -12303,7 +12303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1060?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1061: {
@@ -12333,7 +12333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1061?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1062: {
@@ -12363,7 +12363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1062?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1063: {
@@ -12393,7 +12393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1063?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1064: {
@@ -12423,7 +12423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1064?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1065: {
@@ -12453,7 +12453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1065?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1066: {
@@ -12483,7 +12483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1066?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1068: {
@@ -12513,7 +12513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1068?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1069: {
@@ -12543,7 +12543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1069?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1070: {
@@ -12573,7 +12573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1070?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1071: {
@@ -12603,7 +12603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1071?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1072: {
@@ -12633,7 +12633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1072?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1073: {
@@ -12663,7 +12663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1073?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1074: {
@@ -12693,7 +12693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1074?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1075: {
@@ -12723,7 +12723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1075?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1076: {
@@ -12753,7 +12753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1076?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   1077: {
@@ -12783,7 +12783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/1077?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "8.5x11, 10.5x17, 11.5x17.5, 11x17, 12x15, 12x18, 17x22, 4.25x11, 4.25x12, 4x11, 4x12, 5.5x17, 6.25x11, 6.25x9, 6.5x9, 8.5x14, 3.667x8.5, 4x8.5, 5.5x8.5, 7x8.5, 7.5x8.5, 8x10, 8x9, 9x12, 9x16"
   },
   35003: {
@@ -12813,7 +12813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35003?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35004: {
@@ -12843,7 +12843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35004?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35005: {
@@ -12873,7 +12873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35005?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35006: {
@@ -12903,7 +12903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35006?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35007: {
@@ -12933,7 +12933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35007?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35008: {
@@ -12963,7 +12963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35008?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35009: {
@@ -12993,7 +12993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35009?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35010: {
@@ -13023,7 +13023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35010?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35011: {
@@ -13053,7 +13053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35011?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35012: {
@@ -13083,7 +13083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35012?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35013: {
@@ -13113,7 +13113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35013?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35014: {
@@ -13143,7 +13143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35014?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35015: {
@@ -13173,7 +13173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35015?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35016: {
@@ -13203,7 +13203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35016?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35017: {
@@ -13233,7 +13233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35017?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   35018: {
@@ -13263,7 +13263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/35018?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   37448: {
@@ -13293,7 +13293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/50/37448?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/brochure.png",
 	"sizes_related": "11x17, 12x18, 3.667x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 5.5x17, 6.5x9, 7.5x8.5, 7x8.5, 8.5x11, 8.5x14, 8x10, 8x9, 9x16, 4.25x5.5"
   },
   2508: {
@@ -13323,7 +13323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2508?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_matte.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9"
   },
   2505: {
@@ -13353,7 +13353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2505?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_matte.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9"
   },
   2511: {
@@ -13383,7 +13383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2511?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_matte.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9"
   },
   2512: {
@@ -13413,7 +13413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2512?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_matte.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9"
   },
   2513: {
@@ -13443,7 +13443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2513?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_matte.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9"
   },
   2462: {
@@ -13473,7 +13473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2462?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2140: {
@@ -13503,7 +13503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2140?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2428: {
@@ -13533,7 +13533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2428?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2177: {
@@ -13563,7 +13563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2177?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2138: {
@@ -13593,7 +13593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2138?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2142: {
@@ -13623,7 +13623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2142?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2143: {
@@ -13653,7 +13653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2143?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2144: {
@@ -13683,7 +13683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2144?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2147: {
@@ -13713,7 +13713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2147?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2172: {
@@ -13743,7 +13743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2172?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2181: {
@@ -13773,7 +13773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2181?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2185: {
@@ -13803,7 +13803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2185?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2187: {
@@ -13833,7 +13833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2187?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2192: {
@@ -13863,7 +13863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2192?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2423: {
@@ -13893,7 +13893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2423?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2433: {
@@ -13923,7 +13923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2433?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2458: {
@@ -13953,7 +13953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2458?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2437: {
@@ -13983,7 +13983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2437?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2439: {
@@ -14013,7 +14013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2439?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2466: {
@@ -14043,7 +14043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2466?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2444: {
@@ -14073,7 +14073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2444?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2470: {
@@ -14103,7 +14103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2470?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2472: {
@@ -14133,7 +14133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2472?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2477: {
@@ -14163,7 +14163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2477?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2481: {
@@ -14193,7 +14193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2481?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2483: {
@@ -14223,7 +14223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2483?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2484: {
@@ -14253,7 +14253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2484?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2485: {
@@ -14283,7 +14283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2485?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2487: {
@@ -14313,7 +14313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2487?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2488: {
@@ -14343,7 +14343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2488?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2489: {
@@ -14373,7 +14373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2489?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2491: {
@@ -14403,7 +14403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2491?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2492: {
@@ -14433,7 +14433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2492?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4x6, 4.25x5.5, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2532: {
@@ -14463,7 +14463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2532?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2540: {
@@ -14493,7 +14493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2540?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2545: {
@@ -14523,7 +14523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2545?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2549: {
@@ -14553,7 +14553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2549?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2551: {
@@ -14583,7 +14583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2551?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2556: {
@@ -14613,7 +14613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2556?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2789: {
@@ -14643,7 +14643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2789?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2797: {
@@ -14673,7 +14673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2797?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2802: {
@@ -14703,7 +14703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2802?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2806: {
@@ -14733,7 +14733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2806?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2808: {
@@ -14763,7 +14763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2808?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2813: {
@@ -14793,7 +14793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2813?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2830: {
@@ -14823,7 +14823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2830?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2838: {
@@ -14853,7 +14853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2838?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2843: {
@@ -14883,7 +14883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2843?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2847: {
@@ -14913,7 +14913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2847?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2849: {
@@ -14943,7 +14943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2849?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2854: {
@@ -14973,7 +14973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2854?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2859: {
@@ -15003,7 +15003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2859?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2861: {
@@ -15033,7 +15033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2861?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2862: {
@@ -15063,7 +15063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2862?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2863: {
@@ -15093,7 +15093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2863?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2865: {
@@ -15123,7 +15123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2865?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2866: {
@@ -15153,7 +15153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2866?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2867: {
@@ -15183,7 +15183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2867?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2869: {
@@ -15213,7 +15213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2869?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   2870: {
@@ -15243,7 +15243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/2870?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5x7, 6x11, 6x9, 5.5x8.5"
   },
   4644: {
@@ -15273,7 +15273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4644?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5.5x8.5, 5x7, 6x11, 6x9"
   },
   4646: {
@@ -15303,7 +15303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4646?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5.5x8.5, 5x7, 6x11, 6x9"
   },
   4648: {
@@ -15333,7 +15333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4648?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5.5x8.5, 5x7, 6x11, 6x9"
   },
   4649: {
@@ -15363,7 +15363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4649?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5.5x8.5, 5x7, 6x11, 6x9"
   },
   4650: {
@@ -15393,7 +15393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4650?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5.5x8.5, 5x7, 6x11, 6x9"
   },
   4651: {
@@ -15423,7 +15423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4651?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "4.25x5.5, 4x6, 5.5x8.5, 5x7, 6x11, 6x9"
   },
   4940: {
@@ -15453,7 +15453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/4940?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "5x7, 4.25x5.5, 6x11, 6x9, 4x6, 5.5x8.5"
   },
   5314: {
@@ -15483,7 +15483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/5314?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "5x7, 4.25x5.5, 6x11, 6x9, 4x6, 5.5x8.5"
   },
   5323: {
@@ -15513,7 +15513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/5323?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "5x7, 4.25x5.5, 6x11, 6x9, 4x6, 5.5x8.5"
   },
   5325: {
@@ -15543,7 +15543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/5325?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "5x7, 4.25x5.5, 6x11, 6x9, 4x6, 5.5x8.5"
   },
   5347: {
@@ -15573,7 +15573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/5347?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "5x7, 4.25x5.5, 6x11, 6x9, 4x6, 5.5x8.5"
   },
   5348: {
@@ -15603,7 +15603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/74/5348?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/postcard_glossy.png",
 	"sizes_related": "5x7, 4.25x5.5, 6x11, 6x9, 4x6, 5.5x8.5"
   },
   2964: {
@@ -15633,7 +15633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2964?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/matte-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2965: {
@@ -15663,7 +15663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2965?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/matte-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2952: {
@@ -15693,7 +15693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2952?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2953: {
@@ -15723,7 +15723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2953?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2954: {
@@ -15753,7 +15753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2954?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2955: {
@@ -15783,7 +15783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2955?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2960: {
@@ -15813,7 +15813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2960?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "5.25x10.5, 9x12, 9x14.5"
   },
   2962: {
@@ -15843,7 +15843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2962?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "5.25x10.5, 9x12, 9x14.5"
   },
   2963: {
@@ -15873,7 +15873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2963?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "5.25x10.5, 9x12, 9x14.5"
   },
   2966: {
@@ -15903,7 +15903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2966?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2967: {
@@ -15933,7 +15933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2967?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2970: {
@@ -15963,7 +15963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2970?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   2971: {
@@ -15993,7 +15993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/2971?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "6x9, 9x12"
   },
   5222: {
@@ -16023,7 +16023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/5222?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "9x12"
   },
   5373: {
@@ -16053,7 +16053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/5373?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/glossy-folder.png",
 	"sizes_related": "9x12"
   },
   1461: {
@@ -16083,7 +16083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/76/1461?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/linen-folder.png",
 	"sizes_related": "9x12"
   },
   2509: {
@@ -16113,7 +16113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/2509?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   2141: {
@@ -16143,7 +16143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/2141?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   2178: {
@@ -16173,7 +16173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/2178?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   2429: {
@@ -16203,7 +16203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/2429?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   2541: {
@@ -16233,7 +16233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/2541?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   2798: {
@@ -16263,7 +16263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/2798?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   4647: {
@@ -16293,7 +16293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/4647?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   5319: {
@@ -16323,7 +16323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/5319?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   1442: {
@@ -16353,7 +16353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/79/1442?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/rack-card.png",
 	"sizes_related": "4x9"
   },
   3178: {
@@ -16383,7 +16383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3178?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3028: {
@@ -16413,7 +16413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3028?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3064: {
@@ -16443,7 +16443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3064?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3029: {
@@ -16473,7 +16473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3029?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3030: {
@@ -16503,7 +16503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3030?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3031: {
@@ -16533,7 +16533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3031?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3182: {
@@ -16563,7 +16563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3182?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3032: {
@@ -16593,7 +16593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3032?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3033: {
@@ -16623,7 +16623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3033?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3034: {
@@ -16653,7 +16653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3034?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3035: {
@@ -16683,7 +16683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3035?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3036: {
@@ -16713,7 +16713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3036?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3037: {
@@ -16743,7 +16743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3037?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3038: {
@@ -16773,7 +16773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3038?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3039: {
@@ -16803,7 +16803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3039?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3040: {
@@ -16833,7 +16833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3040?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3041: {
@@ -16863,7 +16863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3041?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3042: {
@@ -16893,7 +16893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3042?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3043: {
@@ -16923,7 +16923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3043?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3044: {
@@ -16953,7 +16953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3044?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3045: {
@@ -16983,7 +16983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3045?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3046: {
@@ -17013,7 +17013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3046?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3047: {
@@ -17043,7 +17043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3047?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3048: {
@@ -17073,7 +17073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3048?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3049: {
@@ -17103,7 +17103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3049?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3050: {
@@ -17133,7 +17133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3050?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3051: {
@@ -17163,7 +17163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3051?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3053: {
@@ -17193,7 +17193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3053?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3054: {
@@ -17223,7 +17223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3054?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3055: {
@@ -17253,7 +17253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3055?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3056: {
@@ -17283,7 +17283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3056?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3057: {
@@ -17313,7 +17313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3057?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3058: {
@@ -17343,7 +17343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3058?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3059: {
@@ -17373,7 +17373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3059?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3060: {
@@ -17403,7 +17403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3060?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3061: {
@@ -17433,7 +17433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3061?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3062: {
@@ -17463,7 +17463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3062?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3063: {
@@ -17493,7 +17493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3063?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3065: {
@@ -17523,7 +17523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3065?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3066: {
@@ -17553,7 +17553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3066?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3067: {
@@ -17583,7 +17583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3067?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3068: {
@@ -17613,7 +17613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3068?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3069: {
@@ -17643,7 +17643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3069?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3070: {
@@ -17673,7 +17673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3070?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3071: {
@@ -17703,7 +17703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3071?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3072: {
@@ -17733,7 +17733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3072?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3073: {
@@ -17763,7 +17763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3073?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3074: {
@@ -17793,7 +17793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3074?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3075: {
@@ -17823,7 +17823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3075?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3076: {
@@ -17853,7 +17853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3076?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3077: {
@@ -17883,7 +17883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3077?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3078: {
@@ -17913,7 +17913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3078?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3079: {
@@ -17943,7 +17943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3079?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3080: {
@@ -17973,7 +17973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3080?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3081: {
@@ -18003,7 +18003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3081?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3082: {
@@ -18033,7 +18033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3082?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3083: {
@@ -18063,7 +18063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3083?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3084: {
@@ -18093,7 +18093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3084?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3085: {
@@ -18123,7 +18123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3085?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3086: {
@@ -18153,7 +18153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3086?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3087: {
@@ -18183,7 +18183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3087?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3089: {
@@ -18213,7 +18213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3089?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3090: {
@@ -18243,7 +18243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3090?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3091: {
@@ -18273,7 +18273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3091?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3092: {
@@ -18303,7 +18303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3092?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3093: {
@@ -18333,7 +18333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3093?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3094: {
@@ -18363,7 +18363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3094?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3095: {
@@ -18393,7 +18393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3095?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3096: {
@@ -18423,7 +18423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3096?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3097: {
@@ -18453,7 +18453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3097?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3098: {
@@ -18483,7 +18483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3098?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3099: {
@@ -18513,7 +18513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3099?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   3180: {
@@ -18543,7 +18543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3180?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3181: {
@@ -18573,7 +18573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3181?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3183: {
@@ -18603,7 +18603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3183?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3184: {
@@ -18633,7 +18633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3184?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3185: {
@@ -18663,7 +18663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3185?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3186: {
@@ -18693,7 +18693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3186?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3187: {
@@ -18723,7 +18723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3187?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3188: {
@@ -18753,7 +18753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3188?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3189: {
@@ -18783,7 +18783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3189?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3190: {
@@ -18813,7 +18813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3190?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3191: {
@@ -18843,7 +18843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3191?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3192: {
@@ -18873,7 +18873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3192?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3193: {
@@ -18903,7 +18903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3193?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3194: {
@@ -18933,7 +18933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3194?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3195: {
@@ -18963,7 +18963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3195?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3197: {
@@ -18993,7 +18993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3197?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3198: {
@@ -19023,7 +19023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3198?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3199: {
@@ -19053,7 +19053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3199?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3200: {
@@ -19083,7 +19083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3200?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3201: {
@@ -19113,7 +19113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3201?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3203: {
@@ -19143,7 +19143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3203?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3204: {
@@ -19173,7 +19173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3204?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3205: {
@@ -19203,7 +19203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3205?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3206: {
@@ -19233,7 +19233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3206?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3207: {
@@ -19263,7 +19263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3207?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3208: {
@@ -19293,7 +19293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3208?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3209: {
@@ -19323,7 +19323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3209?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3210: {
@@ -19353,7 +19353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3210?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3211: {
@@ -19383,7 +19383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3211?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3212: {
@@ -19413,7 +19413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3212?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3213: {
@@ -19443,7 +19443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3213?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3179: {
@@ -19473,7 +19473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/3179?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   5008: {
@@ -19503,7 +19503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/5008?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   5009: {
@@ -19533,7 +19533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/5009?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1.5x2.5, 1.5x3, 1.5x3.5, 1x1, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x4, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 2x4"
   },
   5011: {
@@ -19563,7 +19563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/5011?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   5599: {
@@ -19593,7 +19593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/81/5599?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/roll-label.png",
 	"sizes_related": "1.5x1.5, 1x1, 1.5x3, 1.5x3.5, 1x2, 1x2.5, 1x3, 2.5x2.5, 2.5x3, 2.5x3.5, 2.5x4, 2x2, 2x3, 2x3.5, 2x5, 2x6, 3.5x3.5, 3.5x5, 3x3, 3x4, 3x5, 3x5.5, 4x4, 4x5, 4x6, 4x7, 5.5x5.5, 5x5, 5x6, 5x7, 6.5x6.5, 6x6, 6x6.5, 1.5x2.5, 2x4, 3.5x4"
   },
   3731: {
@@ -19623,7 +19623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3731?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3743: {
@@ -19653,7 +19653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3743?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3727: {
@@ -19683,7 +19683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3727?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3737: {
@@ -19713,7 +19713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3737?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3754: {
@@ -19743,7 +19743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3754?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3756: {
@@ -19773,7 +19773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3756?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   4721: {
@@ -19803,7 +19803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4721?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3730: {
@@ -19833,7 +19833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3730?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3732: {
@@ -19863,7 +19863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3732?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3744: {
@@ -19893,7 +19893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3744?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3733: {
@@ -19923,7 +19923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3733?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3746: {
@@ -19953,7 +19953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3746?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5028: {
@@ -19983,7 +19983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5028?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3734: {
@@ -20013,7 +20013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3734?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3747: {
@@ -20043,7 +20043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3747?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3735: {
@@ -20073,7 +20073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3735?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3748: {
@@ -20103,7 +20103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3748?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3736: {
@@ -20133,7 +20133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3736?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3752: {
@@ -20163,7 +20163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3752?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3738: {
@@ -20193,7 +20193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3738?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3755: {
@@ -20223,7 +20223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3755?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3739: {
@@ -20253,7 +20253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3739?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3758: {
@@ -20283,7 +20283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3758?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3740: {
@@ -20313,7 +20313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3740?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3759: {
@@ -20343,7 +20343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3759?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3741: {
@@ -20373,7 +20373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3741?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3761: {
@@ -20403,7 +20403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3761?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3742: {
@@ -20433,7 +20433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3742?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   4714: {
@@ -20463,7 +20463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4714?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3745: {
@@ -20493,7 +20493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3745?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   4716: {
@@ -20523,7 +20523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4716?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   3749: {
@@ -20553,7 +20553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3749?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3753: {
@@ -20583,7 +20583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3753?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   3760: {
@@ -20613,7 +20613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/3760?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   4715: {
@@ -20643,7 +20643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4715?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4717: {
@@ -20673,7 +20673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4717?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4718: {
@@ -20703,7 +20703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4718?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4719: {
@@ -20733,7 +20733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4719?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4720: {
@@ -20763,7 +20763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4720?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4722: {
@@ -20793,7 +20793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4722?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4723: {
@@ -20823,7 +20823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4723?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4724: {
@@ -20853,7 +20853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4724?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4725: {
@@ -20883,7 +20883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4725?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   4726: {
@@ -20913,7 +20913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4726?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   4727: {
@@ -20943,7 +20943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/4727?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5017: {
@@ -20973,7 +20973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5017?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5018: {
@@ -21003,7 +21003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5018?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5019: {
@@ -21033,7 +21033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5019?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   5020: {
@@ -21063,7 +21063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5020?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   5021: {
@@ -21093,7 +21093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5021?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   5022: {
@@ -21123,7 +21123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5022?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5023: {
@@ -21153,7 +21153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5023?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5024: {
@@ -21183,7 +21183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5024?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5025: {
@@ -21213,7 +21213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5025?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5026: {
@@ -21243,7 +21243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5026?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   5027: {
@@ -21273,7 +21273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/5027?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   17238: {
@@ -21303,7 +21303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/17238?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   17240: {
@@ -21333,7 +21333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/17240?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   17241: {
@@ -21363,7 +21363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/17241?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   29211: {
@@ -21393,7 +21393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/29211?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 1.75x3.5, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 2x2, 4.25x11, 2.75x4.25, 3.667x4.25, 4.25x6, 2.125x5.5, 6x9, 2.75x8.5, 3.667x8.5, 1.5x3.5, 2.125x3.375, 2x3, 3x6"
   },
   29212: {
@@ -21423,7 +21423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/29212?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-indoor.png",
 	"sizes_related": "2x3.5, 4x4, 4x9, 2x4, 3.5x3.5, 3x4, 3x5, 4.25x5.5, 4x6, 5.5x8.5, 5x7, 8.5x11, 2.5x3.5, 2x8, 4.25x11, 4.25x6, 6x9, 2x2, 2x3, 2.5x3, 3.25x7.5, 2.75x8.5, 3.667x8.5, 2.75x4.25, 3.667x4.25, 2.125x5.5, 2.5x2.5, 1.5x2.5, 3x6"
   },
   6901: {
@@ -21453,7 +21453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6901?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6902: {
@@ -21483,7 +21483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6902?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6903: {
@@ -21513,7 +21513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6903?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6904: {
@@ -21543,7 +21543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6904?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6905: {
@@ -21573,7 +21573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6905?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6906: {
@@ -21603,7 +21603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6906?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6907: {
@@ -21633,7 +21633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6907?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6908: {
@@ -21663,7 +21663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6908?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6909: {
@@ -21693,7 +21693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6909?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6910: {
@@ -21723,7 +21723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6910?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6911: {
@@ -21753,7 +21753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6911?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6912: {
@@ -21783,7 +21783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6912?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6913: {
@@ -21813,7 +21813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6913?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6914: {
@@ -21843,7 +21843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6914?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6915: {
@@ -21873,7 +21873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6915?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6916: {
@@ -21903,7 +21903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6916?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6917: {
@@ -21933,7 +21933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6917?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6918: {
@@ -21963,7 +21963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6918?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6919: {
@@ -21993,7 +21993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6919?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6920: {
@@ -22023,7 +22023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6920?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6921: {
@@ -22053,7 +22053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6921?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6922: {
@@ -22083,7 +22083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6922?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6923: {
@@ -22113,7 +22113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6923?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6924: {
@@ -22143,7 +22143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6924?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6925: {
@@ -22173,7 +22173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6925?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6926: {
@@ -22203,7 +22203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6926?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6927: {
@@ -22233,7 +22233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6927?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6928: {
@@ -22263,7 +22263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6928?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   6929: {
@@ -22293,7 +22293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/6929?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   29210: {
@@ -22323,7 +22323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/87/29210?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sticker-outdoor.png",
 	"sizes_related": "2.125x5.5, 2.5x3.5, 2.75x4.25, 2.75x8.5, 2x2, 2x3, 2x3.5, 2x4, 2x8, 3.5x3.5, 3.5x4.25, 3.5x8.5, 3.667x4.25, 3.667x8.5, 3x10, 3x4, 3x5, 4.25x11, 4.25x5.5, 4.25x6, 4x12, 4x4, 4x6, 4x8, 4x9, 5.5x8.5, 5x7, 6x9, 8.5x11, 3x6"
   },
   7056: {
@@ -22353,8 +22353,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/7056?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84"
   },
   7057: {
 	"product_id": 7057,
@@ -22383,8 +22383,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/7057?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84"
   },
   7058: {
 	"product_id": 7058,
@@ -22413,8 +22413,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/7058?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84"
   },
   7059: {
 	"product_id": 7059,
@@ -22443,8 +22443,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/7059?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84"
   },
   7060: {
 	"product_id": 7060,
@@ -22473,8 +22473,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/7060?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84"
   },
   7061: {
 	"product_id": 7061,
@@ -22503,8 +22503,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/7061?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84"
   },
   14281: {
 	"product_id": 14281,
@@ -22522,8 +22522,8 @@ const kpValueId = {
 	"coating_type_KP": "Hide",
 	"coating_type_ID": 159,
 	"coating_type_related": [159],
-	"size_option_PB": "Table Throw",
-	"size_option_KP": "Table Throw",
+	"size_option_PB": "68x132",
+	"size_option_KP": "68x132\" (3 Sided - 6ft Table)",
 	"cover_material_PB": null,
 	"cover_material_KP": null,
 	"cover_material_ID": null,
@@ -22533,8 +22533,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/14281?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "68x132,68x156,90x132,90x156"
   },
   14282: {
 	"product_id": 14282,
@@ -22552,8 +22552,8 @@ const kpValueId = {
 	"coating_type_KP": "Hide",
 	"coating_type_ID": 159,
 	"coating_type_related": [159],
-	"size_option_PB": "Table Throw",
-	"size_option_KP": "Table Throw",
+	"size_option_PB": "68x156",
+	"size_option_KP": "68x156\" (3 Sided - 8ft Table)",
 	"cover_material_PB": null,
 	"cover_material_KP": null,
 	"cover_material_ID": null,
@@ -22563,8 +22563,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/14282?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "68x132,68x156,90x132,90x156"
   },
   14283: {
 	"product_id": 14283,
@@ -22582,8 +22582,8 @@ const kpValueId = {
 	"coating_type_KP": "Hide",
 	"coating_type_ID": 159,
 	"coating_type_related": [159],
-	"size_option_PB": "Table Throw",
-	"size_option_KP": "Table Throw",
+	"size_option_PB": "90x132",
+	"size_option_KP": "90x132\" (4 Sided - 6ft Table)",
 	"cover_material_PB": null,
 	"cover_material_KP": null,
 	"cover_material_ID": null,
@@ -22593,8 +22593,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/14283?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "68x132,68x156,90x132,90x156"
   },
   14284: {
 	"product_id": 14284,
@@ -22612,8 +22612,8 @@ const kpValueId = {
 	"coating_type_KP": "Hide",
 	"coating_type_ID": 159,
 	"coating_type_related": [159],
-	"size_option_PB": "Table Throw",
-	"size_option_KP": "Table Throw",
+	"size_option_PB": "90x156",
+	"size_option_KP": "90x156\" (4 Sided - 8ft Table)",
 	"cover_material_PB": null,
 	"cover_material_KP": null,
 	"cover_material_ID": null,
@@ -22623,8 +22623,8 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/129/14284?dp=1",
-	"img": null,
-	"sizes_related": "24x84, 30x84, 36x84, 42x84, 48x84, 60x84, Table Throw"
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-cover.png",
+	"sizes_related": "68x132,68x156,90x132,90x156"
   },
   224: {
 	"product_id": 224,
@@ -22653,7 +22653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/224?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   225: {
@@ -22683,7 +22683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/225?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   226: {
@@ -22713,7 +22713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/226?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   227: {
@@ -22743,7 +22743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/227?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   228: {
@@ -22773,7 +22773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/228?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   234: {
@@ -22803,7 +22803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/234?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   229: {
@@ -22833,7 +22833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/229?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   235: {
@@ -22863,7 +22863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/235?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   230: {
@@ -22893,7 +22893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/230?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   236: {
@@ -22923,7 +22923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/236?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   231: {
@@ -22953,7 +22953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/231?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   237: {
@@ -22983,7 +22983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/237?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   232: {
@@ -23013,7 +23013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/232?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   233: {
@@ -23043,7 +23043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/233?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   238: {
@@ -23073,7 +23073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/238?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   8691: {
@@ -23103,7 +23103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/8691?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   8692: {
@@ -23133,7 +23133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/8692?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   8693: {
@@ -23163,7 +23163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/8693?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   8694: {
@@ -23193,7 +23193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/8694?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   8695: {
@@ -23223,7 +23223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/8695?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   8696: {
@@ -23253,7 +23253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/30/8696?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/announcement.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   4263: {
@@ -23283,7 +23283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/4263?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   5507: {
@@ -23313,7 +23313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5507?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   4266: {
@@ -23343,7 +23343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/4266?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   5502: {
@@ -23373,7 +23373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5502?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   5503: {
@@ -23403,7 +23403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5503?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   5504: {
@@ -23433,7 +23433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5504?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   5505: {
@@ -23463,7 +23463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5505?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   5506: {
@@ -23493,7 +23493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5506?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   5508: {
@@ -23523,7 +23523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5508?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   5509: {
@@ -23553,7 +23553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/5509?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   6059: {
@@ -23583,7 +23583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/6059?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "7x10"
   },
   8768: {
@@ -23613,7 +23613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8768?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8769: {
@@ -23643,7 +23643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8769?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8770: {
@@ -23673,7 +23673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8770?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8771: {
@@ -23703,7 +23703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8771?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8772: {
@@ -23733,7 +23733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8772?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8773: {
@@ -23763,7 +23763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8773?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8774: {
@@ -23793,7 +23793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8774?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8775: {
@@ -23823,7 +23823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8775?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8776: {
@@ -23853,7 +23853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8776?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8777: {
@@ -23883,7 +23883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8777?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8778: {
@@ -23913,7 +23913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8778?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8779: {
@@ -23943,7 +23943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8779?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8780: {
@@ -23973,7 +23973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8780?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8781: {
@@ -24003,7 +24003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8781?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8782: {
@@ -24033,7 +24033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8782?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8783: {
@@ -24063,7 +24063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8783?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8784: {
@@ -24093,7 +24093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8784?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8785: {
@@ -24123,7 +24123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8785?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8786: {
@@ -24153,7 +24153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8786?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8787: {
@@ -24183,7 +24183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8787?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   8788: {
@@ -24213,7 +24213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/8788?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x6, 2x8, 3.5x3.5, 3.5x4, 3.5x8.5, 3.667x8.5, 4.25x11, 4.25x5.5, 4.25x6, 4x4, 4x6, 4x8.5, 4x9, 5.5x8.5, 5x5, 5x7, 6.25x9, 6.5x9, 6x11, 6x8, 6x9"
   },
   4264: {
@@ -24243,7 +24243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/105/4264?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/kraft-cards.png",
 	"sizes_related": "2x3.5, 2x2, 1.5x3.5, 2x4, 1.75x3.5, 2.125x3.375, 2x3"
   },
   755: {
@@ -24273,7 +24273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/755?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   746: {
@@ -24303,7 +24303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/746?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   748: {
@@ -24333,7 +24333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/748?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   744: {
@@ -24363,7 +24363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/744?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   745: {
@@ -24393,7 +24393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/745?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   747: {
@@ -24423,7 +24423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/747?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   749: {
@@ -24453,7 +24453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/749?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   4350: {
@@ -24483,7 +24483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/4350?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   750: {
@@ -24513,7 +24513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/750?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   751: {
@@ -24543,7 +24543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/751?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   753: {
@@ -24573,7 +24573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/753?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   1628: {
@@ -24603,7 +24603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1628?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   1631: {
@@ -24633,7 +24633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1631?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   1632: {
@@ -24663,7 +24663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1632?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   1633: {
@@ -24693,7 +24693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1633?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   1634: {
@@ -24723,7 +24723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1634?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   4551: {
@@ -24753,7 +24753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/4551?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   14491: {
@@ -24783,7 +24783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/14491?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "4.125x9.5, 5.25x7.25, 3.875x8.875, 9x12, 4.375x5.75, 5.75x8.75, 4.75x6.5, 6x9, 6.5x6.5"
   },
   1464: {
@@ -24813,7 +24813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1464?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "5.25x7.25, 4.125x9.5, 9x12, 3.875x8.875"
   },
   1466: {
@@ -24843,7 +24843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1466?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "5.25x7.25, 4.125x9.5, 9x12, 3.875x8.875"
   },
   1467: {
@@ -24873,7 +24873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1467?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "5.25x7.25, 4.125x9.5, 9x12, 3.875x8.875"
   },
   4519: {
@@ -24903,7 +24903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/4519?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "5.25x7.25, 4.125x9.5, 9x12, 3.875x8.875"
   },
   1626: {
@@ -24933,7 +24933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1626?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "5.25x7.25, 4.125x9.5, 9x12, 3.875x8.875"
   },
   1627: {
@@ -24963,7 +24963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/678/1627?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/envelopes.png",
 	"sizes_related": "5.25x7.25, 4.125x9.5, 9x12, 3.875x8.875"
   },
   1295: {
@@ -24993,7 +24993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1295?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1292: {
@@ -25023,7 +25023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1292?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1293: {
@@ -25053,7 +25053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1293?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1294: {
@@ -25083,7 +25083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1294?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1296: {
@@ -25113,7 +25113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1296?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1297: {
@@ -25143,7 +25143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1297?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1253: {
@@ -25173,7 +25173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1253?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1265: {
@@ -25203,7 +25203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1265?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   5278: {
@@ -25233,7 +25233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/5278?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 8.5x11, 5.5x8.5"
   },
   5185: {
@@ -25263,7 +25263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/5185?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 8.5x11, 5.5x8.5"
   },
   1250: {
@@ -25293,7 +25293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1250?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1262: {
@@ -25323,7 +25323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1262?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1251: {
@@ -25353,7 +25353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1251?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1263: {
@@ -25383,7 +25383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1263?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1252: {
@@ -25413,7 +25413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1252?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1264: {
@@ -25443,7 +25443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1264?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1254: {
@@ -25473,7 +25473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1254?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1266: {
@@ -25503,7 +25503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1266?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   5279: {
@@ -25533,7 +25533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/5279?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 8.5x11, 5.5x8.5"
   },
   5186: {
@@ -25563,7 +25563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/5186?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 8.5x11, 5.5x8.5"
   },
   1255: {
@@ -25593,7 +25593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1255?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   1267: {
@@ -25623,7 +25623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1267?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 4.25x11, 6x12, 6x9, 8.5x11, 5.5x8.5"
   },
   5184: {
@@ -25653,7 +25653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/5184?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 8.5x11, 5.5x8.5"
   },
   5277: {
@@ -25683,7 +25683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/5277?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "7x10, 8.5x11, 5.5x8.5"
   },
   1418: {
@@ -25713,7 +25713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1418?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "6x12, 6x9, 4.25x11"
   },
   1419: {
@@ -25743,7 +25743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1419?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "6x12, 6x9, 4.25x11"
   },
   1417: {
@@ -25773,7 +25773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/53/1417?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/greeting-card.png",
 	"sizes_related": "6x12, 6x9, 4.25x11"
   },
   1406: {
@@ -25803,7 +25803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1406?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1411: {
@@ -25833,7 +25833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1411?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1405: {
@@ -25863,7 +25863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1405?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1407: {
@@ -25893,7 +25893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1407?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1408: {
@@ -25923,7 +25923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1408?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1409: {
@@ -25953,7 +25953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1409?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1410: {
@@ -25983,7 +25983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1410?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1412: {
@@ -26013,7 +26013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1412?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1469: {
@@ -26043,7 +26043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1469?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1468: {
@@ -26073,7 +26073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1468?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1470: {
@@ -26103,7 +26103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1470?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   1471: {
@@ -26133,7 +26133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/58/1471?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/letterhead.png",
 	"sizes_related": "8.5x11, 11x17, 8.5x14, 5.5x8.5"
   },
   4046: {
@@ -26163,7 +26163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/4046?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1542: {
@@ -26193,7 +26193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1542?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1543: {
@@ -26223,7 +26223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1543?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1544: {
@@ -26253,7 +26253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1544?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1546: {
@@ -26283,7 +26283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1546?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1547: {
@@ -26313,7 +26313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1547?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1548: {
@@ -26343,7 +26343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1548?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1549: {
@@ -26373,7 +26373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/1549?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   4522: {
@@ -26403,7 +26403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/4522?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   6867: {
@@ -26433,7 +26433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6867?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   6868: {
@@ -26463,7 +26463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6868?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   6869: {
@@ -26493,7 +26493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6869?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   6870: {
@@ -26523,7 +26523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6870?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6871: {
@@ -26553,7 +26553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6871?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6872: {
@@ -26583,7 +26583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6872?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6874: {
@@ -26613,7 +26613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6874?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6875: {
@@ -26643,7 +26643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6875?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6876: {
@@ -26673,7 +26673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6876?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6877: {
@@ -26703,7 +26703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6877?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6878: {
@@ -26733,7 +26733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6878?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6879: {
@@ -26763,7 +26763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6879?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6880: {
@@ -26793,7 +26793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6880?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6882: {
@@ -26823,7 +26823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6882?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "2.5x3.5, 3.5x8.5, 3x4, 4.25x6, 4x11, 4x6, 4x7, 4x8, 4x9, 5.5x8.5, 6x9"
   },
   6884: {
@@ -26853,7 +26853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/61/6884?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/magnetic-bc.png",
 	"sizes_related": "5.5x8.5, 4.25x5.5, 4.25x6, 4x11, 4x6, 4x7, 4x8, 5x7, 3x4, 3.5x8.5, 4x9, 6x9, 2.5x3.5"
   },
   1715: {
@@ -26883,7 +26883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/1715?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   1716: {
@@ -26913,7 +26913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/1716?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   1717: {
@@ -26943,7 +26943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/1717?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14471: {
@@ -26973,7 +26973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14471?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14472: {
@@ -27003,7 +27003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14472?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14473: {
@@ -27033,7 +27033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14473?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14474: {
@@ -27063,7 +27063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14474?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14475: {
@@ -27093,7 +27093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14475?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14476: {
@@ -27123,7 +27123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14476?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14477: {
@@ -27153,7 +27153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14477?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   14478: {
@@ -27183,7 +27183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/64/14478?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-07.png",
 	"sizes_related": "12x12, 12x18, 18x24, 12x24, 16x20, 16x24, 18x18, 20x24, 24x24, 24x36, 36x36"
   },
   1853: {
@@ -27213,7 +27213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/67/1853?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/ncr-forms.png",
 	"sizes_related": "8.5x11, 5.5x8.5"
   },
   1855: {
@@ -27243,7 +27243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/67/1855?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/ncr-forms.png",
 	"sizes_related": "8.5x11, 5.5x8.5"
   },
   4048: {
@@ -27273,7 +27273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/67/4048?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/ncr-forms.png",
 	"sizes_related": "8.5x11, 5.5x8.5"
   },
   4049: {
@@ -27303,7 +27303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/67/4049?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/ncr-forms.png",
 	"sizes_related": "8.5x11, 5.5x8.5"
   },
   4851: {
@@ -27333,7 +27333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4851?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4855: {
@@ -27363,7 +27363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4855?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   1904: {
@@ -27393,7 +27393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/1904?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4593: {
@@ -27423,7 +27423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4593?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4848: {
@@ -27453,7 +27453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4848?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4849: {
@@ -27483,7 +27483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4849?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4850: {
@@ -27513,7 +27513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4850?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4852: {
@@ -27543,7 +27543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4852?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4853: {
@@ -27573,7 +27573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4853?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4856: {
@@ -27603,7 +27603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4856?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   29200: {
@@ -27633,7 +27633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/29200?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "5.5x8.5, 4x6, 3.5x8.5, 4.25x5.5, 8.5x11, 3x3"
   },
   4857: {
@@ -27663,7 +27663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4857?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4858: {
@@ -27693,7 +27693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4858?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4859: {
@@ -27723,7 +27723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4859?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4860: {
@@ -27753,7 +27753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4860?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4861: {
@@ -27783,7 +27783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4861?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4862: {
@@ -27813,7 +27813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4862?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4863: {
@@ -27843,7 +27843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4863?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4864: {
@@ -27873,7 +27873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4864?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4865: {
@@ -27903,7 +27903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4865?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   4866: {
@@ -27933,7 +27933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/4866?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   29201: {
@@ -27963,7 +27963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/29201?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   29202: {
@@ -27993,7 +27993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/69/29202?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/notepad.png",
 	"sizes_related": "3.5x8.5, 4.25x5.5, 4x6, 5.5x8.5, 8.5x11, 3x3"
   },
   6887: {
@@ -28023,7 +28023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/6887?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "2x3.5, 2.125x3.375, 2.5x2.5"
   },
   6888: {
@@ -28053,7 +28053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/6888?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "2x3.5, 2.125x3.375, 2.5x2.5"
   },
   25708: {
@@ -28083,7 +28083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/25708?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5x7"
   },
   25709: {
@@ -28113,7 +28113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/25709?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5x7"
   },
   25710: {
@@ -28143,7 +28143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/25710?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5x7"
   },
   25711: {
@@ -28173,12 +28173,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/110/25711?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/painted-edge-bc.png",
 	"sizes_related": "4x6"
   },
   2065: {
 	"product_id": 2065,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Announcement Cards",
@@ -28203,12 +28203,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2065?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   2066: {
 	"product_id": 2066,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Announcement Cards",
@@ -28233,12 +28233,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2066?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   2067: {
 	"product_id": 2067,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Announcement Cards",
@@ -28263,12 +28263,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2067?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   2068: {
 	"product_id": 2068,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Announcement Cards",
@@ -28293,12 +28293,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2068?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   2069: {
 	"product_id": 2069,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Announcement Cards",
@@ -28323,12 +28323,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2069?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x5.5, 4.25x6, 5.5x8.5, 5x7, 6x6"
   },
   2070: {
 	"product_id": 2070,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28353,12 +28353,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2070?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2071: {
 	"product_id": 2071,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28383,12 +28383,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2071?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2072: {
 	"product_id": 2072,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28413,12 +28413,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2072?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2074: {
 	"product_id": 2074,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28443,12 +28443,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2074?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2077: {
 	"product_id": 2077,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28473,12 +28473,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2077?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2078: {
 	"product_id": 2078,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28503,12 +28503,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2078?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2097: {
 	"product_id": 2097,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28533,12 +28533,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2097?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   5584: {
 	"product_id": 5584,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Business Cards",
@@ -28563,12 +28563,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/5584?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2x3.5, 1.5x3.5, 1.75x3.5, 2.125x3.375, 2x2, 2x7, 3.5x4, 2x3"
   },
   2079: {
 	"product_id": 2079,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Greeting Cards",
@@ -28593,12 +28593,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2079?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x11, 6x12, 6x9, 7x10, 8.5x11, 5.5x8.5"
   },
   2080: {
 	"product_id": 2080,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Greeting Cards",
@@ -28623,12 +28623,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2080?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x11, 6x12, 6x9, 7x10, 8.5x11, 5.5x8.5"
   },
   2081: {
 	"product_id": 2081,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Greeting Cards",
@@ -28653,12 +28653,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2081?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x11, 6x12, 6x9, 7x10, 8.5x11, 5.5x8.5"
   },
   2082: {
 	"product_id": 2082,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Greeting Cards",
@@ -28683,12 +28683,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2082?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x11, 6x12, 6x9, 7x10, 8.5x11, 5.5x8.5"
   },
   2083: {
 	"product_id": 2083,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Greeting Cards",
@@ -28713,12 +28713,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2083?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x11, 6x12, 6x9, 7x10, 8.5x11, 5.5x8.5"
   },
   2084: {
 	"product_id": 2084,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Greeting Cards",
@@ -28743,12 +28743,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2084?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4.25x11, 6x12, 6x9, 7x10, 8.5x11, 5.5x8.5"
   },
   2092: {
 	"product_id": 2092,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28773,12 +28773,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2092?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2085: {
 	"product_id": 2085,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28803,12 +28803,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2085?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2086: {
 	"product_id": 2086,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28833,12 +28833,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2086?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2087: {
 	"product_id": 2087,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28863,12 +28863,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2087?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2088: {
 	"product_id": 2088,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28893,12 +28893,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2088?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2089: {
 	"product_id": 2089,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28923,12 +28923,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2089?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2090: {
 	"product_id": 2090,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28953,12 +28953,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2090?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2091: {
 	"product_id": 2091,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -28983,12 +28983,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2091?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2093: {
 	"product_id": 2093,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Postcards",
@@ -29013,12 +29013,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2093?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "5.5x8.5, 2x4, 2x6, 3.5x8.5, 4.25x11, 4x6, 4x8.5, 4x9, 6x9"
   },
   2073: {
 	"product_id": 2073,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Social Cards",
@@ -29043,12 +29043,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/2073?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "2.5x2.5"
   },
   6889: {
 	"product_id": 6889,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Table Tent",
@@ -29073,12 +29073,12 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/6889?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   6890: {
 	"product_id": 6890,
-	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,2092,2085,2086,2087,2088,2089,2090,2091,2093,2073,6889,6890],
+	"product_id_related": [2065,2066,2067,2068,2069,2070,2071,2072,2074,2076,2077,2078,2097,2101,5584,2079,2080,2081,2082,2083,2084,4622,4623,4624,4625,4626,4627,4628,4629,4630,4633,4634,4636,2092,2085,2086,2087,2088,2089,2090,2091,2093,2102,2103,2104,2106,5585,2073,6889,6890,4637],
 	"category": "MISCELLANEOUS PRODUCTS",
 	"sub_category": "PEARL CARDS",
 	"nested_name": "Metallic Pearl Table Tent",
@@ -29103,7 +29103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/72/6890?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pearl-bc.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   2107: {
@@ -29133,7 +29133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2107?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "1.5x3.5, 1.75x3.5"
   },
   2108: {
@@ -29163,7 +29163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2108?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "1.5x3.5, 1.75x3.5"
   },
   2109: {
@@ -29193,7 +29193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2109?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2.125x3.375"
   },
   2112: {
@@ -29223,7 +29223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2112?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2113: {
@@ -29253,7 +29253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2113?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2114: {
@@ -29283,7 +29283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2114?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2115: {
@@ -29313,7 +29313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2115?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2.5x2.5"
   },
   2116: {
@@ -29343,7 +29343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2116?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "1.5x3.5, 1.75x3.5"
   },
   2117: {
@@ -29373,7 +29373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2117?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "1.5x3.5, 1.75x3.5"
   },
   2118: {
@@ -29403,7 +29403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2118?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2.125x3.375"
   },
   2121: {
@@ -29433,7 +29433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2121?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2122: {
@@ -29463,7 +29463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2122?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2123: {
@@ -29493,7 +29493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2123?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2124: {
@@ -29523,7 +29523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2124?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2.5x2.5"
   },
   2125: {
@@ -29553,7 +29553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2125?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "1.5x3.5, 1.75x3.5"
   },
   2126: {
@@ -29583,7 +29583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2126?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "1.5x3.5, 1.75x3.5"
   },
   2127: {
@@ -29613,7 +29613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2127?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2.125x3.375"
   },
   2131: {
@@ -29643,7 +29643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2131?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2132: {
@@ -29673,7 +29673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2132?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2133: {
@@ -29703,7 +29703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2133?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2x8, 4.25x6, 4x6"
   },
   2134: {
@@ -29733,7 +29733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/73/2134?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/plastic-bcs.png",
 	"sizes_related": "2.5x2.5"
   },
   467: {
@@ -29763,7 +29763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/467?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-round.png",
 	"sizes_related": "2.25x2.25, 3x3"
   },
   464: {
@@ -29793,7 +29793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/464?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-round.png",
 	"sizes_related": "2.25x2.25, 3x3"
   },
   458: {
@@ -29823,7 +29823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/458?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-round.png",
 	"sizes_related": "1x1, 1.25x1.25, 3x3, 3.5x3.5"
   },
   457: {
@@ -29853,7 +29853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/457?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-round.png",
 	"sizes_related": "1x1, 1.25x1.25, 3x3, 3.5x3.5"
   },
   468: {
@@ -29883,7 +29883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/468?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-round.png",
 	"sizes_related": "1x1, 1.25x1.25, 3x3, 3.5x3.5"
   },
   463: {
@@ -29913,7 +29913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/463?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-round.png",
 	"sizes_related": "1x1, 1.25x1.25, 3x3, 3.5x3.5"
   },
   461: {
@@ -29943,7 +29943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/461?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-square.png",
 	"sizes_related": "2x2, 2.5x3.5, 2x3"
   },
   460: {
@@ -29973,7 +29973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/460?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-square.png",
 	"sizes_related": "2x2, 2.5x3.5, 2x3"
   },
   462: {
@@ -30003,7 +30003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/34/462?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/button-square.png",
 	"sizes_related": "2x2, 2.5x3.5, 2x3"
   },
   1718: {
@@ -30033,7 +30033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/65/1718?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mug.png",
 	"sizes_related": "3x8.5, 4x9"
   },
   1719: {
@@ -30063,7 +30063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/65/1719?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mug.png",
 	"sizes_related": "3x8.5, 4x9"
   },
   3863: {
@@ -30093,7 +30093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3863?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9867: {
@@ -30123,7 +30123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9867?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3856: {
@@ -30153,7 +30153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3856?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9861: {
@@ -30183,7 +30183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9861?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3849: {
@@ -30213,7 +30213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3849?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3847: {
@@ -30243,7 +30243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3847?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3851: {
@@ -30273,7 +30273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3851?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3853: {
@@ -30303,7 +30303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3853?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3855: {
@@ -30333,7 +30333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/3855?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9881: {
@@ -30363,7 +30363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9881?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9883: {
@@ -30393,7 +30393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9883?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9879: {
@@ -30423,7 +30423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9879?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9873: {
@@ -30453,7 +30453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9873?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9885: {
@@ -30483,7 +30483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9885?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   9891: {
@@ -30513,7 +30513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/89/9891?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tshirt.png",
 	"sizes_related": "8.5x11"
   },
   3923: {
@@ -30543,7 +30543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/92/3923?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tote-bag.png",
 	"sizes_related": "9x13"
   },
   3924: {
@@ -30573,7 +30573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/92/3924?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tote-bag.png",
 	"sizes_related": "9x13"
   },
   3925: {
@@ -30603,7 +30603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/92/3925?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/tote-bag.png",
 	"sizes_related": "9x13"
   },
   17465: {
@@ -30633,7 +30633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17465?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17466: {
@@ -30663,7 +30663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17466?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17468: {
@@ -30693,7 +30693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17468?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17477: {
@@ -30723,7 +30723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17477?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17479: {
@@ -30753,7 +30753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17479?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17480: {
@@ -30783,7 +30783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17480?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17482: {
@@ -30813,7 +30813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17482?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17485: {
@@ -30843,7 +30843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17485?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17488: {
@@ -30873,7 +30873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17488?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17490: {
@@ -30903,7 +30903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17490?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17495: {
@@ -30933,7 +30933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17495?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17502: {
@@ -30963,7 +30963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17502?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17503: {
@@ -30993,7 +30993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17503?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17504: {
@@ -31023,7 +31023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17504?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17505: {
@@ -31053,7 +31053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17505?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17506: {
@@ -31083,7 +31083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17506?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17507: {
@@ -31113,7 +31113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17507?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17512: {
@@ -31143,7 +31143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17512?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17520: {
@@ -31173,7 +31173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17520?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17524: {
@@ -31203,7 +31203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17524?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17525: {
@@ -31233,7 +31233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17525?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17526: {
@@ -31263,7 +31263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17526?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17527: {
@@ -31293,7 +31293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17527?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17528: {
@@ -31323,7 +31323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17528?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17531: {
@@ -31353,7 +31353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17531?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17540: {
@@ -31383,7 +31383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17540?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17548: {
@@ -31413,7 +31413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17548?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17549: {
@@ -31443,7 +31443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17549?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17551: {
@@ -31473,7 +31473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17551?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17552: {
@@ -31503,7 +31503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17552?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17553: {
@@ -31533,7 +31533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17553?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17556: {
@@ -31563,7 +31563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17556?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17558: {
@@ -31593,7 +31593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17558?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17559: {
@@ -31623,7 +31623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17559?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17563: {
@@ -31653,7 +31653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17563?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17564: {
@@ -31683,7 +31683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17564?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17566: {
@@ -31713,7 +31713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17566?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17571: {
@@ -31743,7 +31743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17571?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17580: {
@@ -31773,7 +31773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17580?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17588: {
@@ -31803,7 +31803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17588?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17590: {
@@ -31833,7 +31833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17590?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17595: {
@@ -31863,7 +31863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17595?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17604: {
@@ -31893,7 +31893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17604?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17605: {
@@ -31923,7 +31923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17605?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17608: {
@@ -31953,7 +31953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17608?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17609: {
@@ -31983,7 +31983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17609?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17612: {
@@ -32013,7 +32013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17612?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17613: {
@@ -32043,7 +32043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17613?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17621: {
@@ -32073,7 +32073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17621?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17624: {
@@ -32103,7 +32103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17624?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/canvas-banner.png",
 	"sizes_related": "12X12, 12X18, 12X24, 16X20, 16X24, 16X26, 18X24, 18X30, 20X24, 20X30, 22X28, 24X24, 24X28, 24X36, 24X48, 24X60, 24X72, 26X36, 28X40, 30X120, 30X30, 30X36, 30X40, 30X42, 30X60, 34X45, 36X120, 36X36, 36X46, 36X48, 36X52, 36X60, 36X72, 36X78, 38X38, 38X56, 39X39, 40X40, 41X53, 44X58, 44X66, 46X58, 48X120, 48X48, 48X60, 48X64, 48X72, 48X73, 48X92, 48X96"
   },
   17633: {
@@ -32133,7 +32133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17633?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17634: {
@@ -32163,7 +32163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17634?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17639: {
@@ -32193,7 +32193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17639?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17642: {
@@ -32223,7 +32223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17642?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17646: {
@@ -32253,7 +32253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17646?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17650: {
@@ -32283,7 +32283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17650?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17652: {
@@ -32313,7 +32313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17652?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17653: {
@@ -32343,7 +32343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17653?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17654: {
@@ -32373,7 +32373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17654?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17655: {
@@ -32403,7 +32403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17655?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17662: {
@@ -32433,7 +32433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17662?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17663: {
@@ -32463,7 +32463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17663?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17665: {
@@ -32493,7 +32493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17665?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17670: {
@@ -32523,7 +32523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17670?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17671: {
@@ -32553,7 +32553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17671?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17672: {
@@ -32583,7 +32583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17672?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17673: {
@@ -32613,7 +32613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17673?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17677: {
@@ -32643,7 +32643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17677?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17686: {
@@ -32673,7 +32673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17686?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17692: {
@@ -32703,7 +32703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17692?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17693: {
@@ -32733,7 +32733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17693?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17694: {
@@ -32763,7 +32763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17694?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17695: {
@@ -32793,7 +32793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17695?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17697: {
@@ -32823,7 +32823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17697?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17707: {
@@ -32853,7 +32853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17707?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17708: {
@@ -32883,7 +32883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17708?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17715: {
@@ -32913,7 +32913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17715?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17716: {
@@ -32943,7 +32943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17716?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17717: {
@@ -32973,7 +32973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17717?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17730: {
@@ -33003,7 +33003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17730?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17732: {
@@ -33033,7 +33033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17732?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17753: {
@@ -33063,7 +33063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17753?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17755: {
@@ -33093,7 +33093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17755?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   17760: {
@@ -33123,7 +33123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/130/17760?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/poly-banner.png",
 	"sizes_related": "108X108, 108X144, 108X240, 110X120, 18X24, 24X24, 24X36, 24X48, 24X60, 24X72, 30X60, 30X72, 32X60, 36X120, 36X48, 36X60, 36X72, 36X96, 48X120, 48X48, 48X60, 48X72, 48X84, 48X96, 60X120, 60X60, 72X120, 72X72, 72X96, 84X120, 84X84, 96X120, 96X144, 96X96"
   },
   14631: {
@@ -33153,7 +33153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14631?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14637: {
@@ -33183,7 +33183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14637?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14645: {
@@ -33213,7 +33213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14645?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14652: {
@@ -33243,7 +33243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14652?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14659: {
@@ -33273,7 +33273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14659?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14666: {
@@ -33303,7 +33303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14666?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14673: {
@@ -33333,7 +33333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14673?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14675: {
@@ -33363,7 +33363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14675?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14677: {
@@ -33393,7 +33393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14677?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14681: {
@@ -33423,7 +33423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14681?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14684: {
@@ -33453,7 +33453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14684?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14687: {
@@ -33483,7 +33483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14687?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14688: {
@@ -33513,7 +33513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14688?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14690: {
@@ -33543,7 +33543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14690?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14695: {
@@ -33573,7 +33573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14695?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14700: {
@@ -33603,7 +33603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14700?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14702: {
@@ -33633,7 +33633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14702?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14703: {
@@ -33663,7 +33663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14703?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14707: {
@@ -33693,7 +33693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14707?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14710: {
@@ -33723,7 +33723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14710?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14712: {
@@ -33753,7 +33753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14712?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14718: {
@@ -33783,7 +33783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14718?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14724: {
@@ -33813,7 +33813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14724?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14728: {
@@ -33843,7 +33843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14728?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14731: {
@@ -33873,7 +33873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14731?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14733: {
@@ -33903,7 +33903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14733?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14734: {
@@ -33933,7 +33933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14734?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14736: {
@@ -33963,7 +33963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14736?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14738: {
@@ -33993,7 +33993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14738?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14743: {
@@ -34023,7 +34023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14743?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14747: {
@@ -34053,7 +34053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14747?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14752: {
@@ -34083,7 +34083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14752?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14754: {
@@ -34113,7 +34113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14754?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14759: {
@@ -34143,7 +34143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14759?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14766: {
@@ -34173,7 +34173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14766?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14768: {
@@ -34203,7 +34203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14768?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14769: {
@@ -34233,7 +34233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14769?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14771: {
@@ -34263,7 +34263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14771?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14773: {
@@ -34293,7 +34293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14773?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14777: {
@@ -34323,7 +34323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14777?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14781: {
@@ -34353,7 +34353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14781?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14785: {
@@ -34383,7 +34383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14785?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14791: {
@@ -34413,7 +34413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14791?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14802: {
@@ -34443,7 +34443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14802?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14807: {
@@ -34473,7 +34473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14807?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14811: {
@@ -34503,7 +34503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14811?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14817: {
@@ -34533,7 +34533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14817?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14824: {
@@ -34563,7 +34563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14824?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14826: {
@@ -34593,7 +34593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14826?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14829: {
@@ -34623,7 +34623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14829?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14831: {
@@ -34653,7 +34653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14831?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14834: {
@@ -34683,7 +34683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14834?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14837: {
@@ -34713,7 +34713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14837?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14795: {
@@ -34743,7 +34743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14795?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14798: {
@@ -34773,7 +34773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14798?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14846: {
@@ -34803,7 +34803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14846?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14852: {
@@ -34833,7 +34833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14852?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14842: {
@@ -34863,7 +34863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14842?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14859: {
@@ -34893,7 +34893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14859?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14862: {
@@ -34923,7 +34923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14862?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14866: {
@@ -34953,7 +34953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14866?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14870: {
@@ -34983,7 +34983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14870?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14876: {
@@ -35013,7 +35013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14876?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14882: {
@@ -35043,7 +35043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14882?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14889: {
@@ -35073,7 +35073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14889?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14896: {
@@ -35103,7 +35103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14896?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14903: {
@@ -35133,7 +35133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14903?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14909: {
@@ -35163,7 +35163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14909?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14913: {
@@ -35193,7 +35193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14913?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14917: {
@@ -35223,7 +35223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14917?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14923: {
@@ -35253,7 +35253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14923?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14930: {
@@ -35283,7 +35283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14930?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14935: {
@@ -35313,7 +35313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14935?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14942: {
@@ -35343,7 +35343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14942?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14949: {
@@ -35373,7 +35373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14949?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14956: {
@@ -35403,7 +35403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14956?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14963: {
@@ -35433,7 +35433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14963?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14968: {
@@ -35463,7 +35463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14968?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14973: {
@@ -35493,7 +35493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14973?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14979: {
@@ -35523,7 +35523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14979?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14985: {
@@ -35553,7 +35553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14985?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   14991: {
@@ -35583,7 +35583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/14991?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/indoor-vinyl-banner.png",
 	"sizes_related": "12X12, 18X36, 18X72, 20X30, 22X28, 23X63, 24X108, 24X120, 24X24, 24X30, 24X36, 24X48, 24X63, 24X72, 24X80, 24X84, 24X90, 24X96, 25X64, 26X52, 28X69, 30X120, 30X36, 30X40, 30X42, 30X48, 30X60, 30X70, 30X72, 30X78, 30X80, 30X96, 31X80, 32X72, 32X78, 32X80, 33X79, 33X80, 33X81, 33X82, 33X84, 33X86, 35X88, 36X36, 36X48, 36X54, 36X60, 36X72, 36X80, 36X84, 36X90, 36X92, 36X96, 36X108, 36X120, 38X79, 38X90, 38X120, 41X120, 42X60, 42X72, 42X84, 42X95, 46X111, 47X118, 47X78, 47X80, 48X108, 48X120, 48X48, 48X60, 48X72, 48X80, 48X84, 48X96, 50X60, 52X100, 54X54, 54X68, 54X72, 54X96, 55X80"
   },
   15022: {
@@ -35613,7 +35613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15022?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15025: {
@@ -35643,7 +35643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15025?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15028: {
@@ -35673,7 +35673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15028?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15031: {
@@ -35703,7 +35703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15031?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15033: {
@@ -35733,7 +35733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15033?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15044: {
@@ -35763,7 +35763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15044?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15047: {
@@ -35793,7 +35793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15047?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15049: {
@@ -35823,7 +35823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15049?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15053: {
@@ -35853,7 +35853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15053?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15055: {
@@ -35883,7 +35883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15055?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15058: {
@@ -35913,7 +35913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15058?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15060: {
@@ -35943,7 +35943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15060?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15063: {
@@ -35973,7 +35973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15063?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15065: {
@@ -36003,7 +36003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15065?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15068: {
@@ -36033,7 +36033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15068?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15070: {
@@ -36063,7 +36063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15070?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15073: {
@@ -36093,7 +36093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15073?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15075: {
@@ -36123,7 +36123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15075?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15078: {
@@ -36153,7 +36153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15078?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15080: {
@@ -36183,7 +36183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15080?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15083: {
@@ -36213,7 +36213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15083?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15086: {
@@ -36243,7 +36243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15086?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15089: {
@@ -36273,7 +36273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15089?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15096: {
@@ -36303,7 +36303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15096?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15105: {
@@ -36333,7 +36333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15105?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15112: {
@@ -36363,7 +36363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15112?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15115: {
@@ -36393,7 +36393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15115?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15121: {
@@ -36423,7 +36423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15121?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15122: {
@@ -36453,7 +36453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15122?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15125: {
@@ -36483,7 +36483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15125?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15130: {
@@ -36513,7 +36513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15130?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15136: {
@@ -36543,7 +36543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15136?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15137: {
@@ -36573,7 +36573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15137?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15138: {
@@ -36603,7 +36603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15138?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15140: {
@@ -36633,7 +36633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15140?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15142: {
@@ -36663,7 +36663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15142?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15146: {
@@ -36693,7 +36693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15146?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15147: {
@@ -36723,7 +36723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15147?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15148: {
@@ -36753,7 +36753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15148?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15151: {
@@ -36783,7 +36783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15151?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15153: {
@@ -36813,7 +36813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15153?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   15127: {
@@ -36843,7 +36843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/56/15127?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/blockout-banner.png",
 	"sizes_related": "17X32, 18X24, 21X192, 22X35, 22X69, 24X60, 24X63, 24X72, 24X96, 30X36, 30X48, 30X60, 30X62, 30X72, 30X78, 30X84, 31X85, 32X79, 32X96, 33X80, 33X83, 33X84, 36X108, 36X36, 36X69, 36X84, 36X90, 38X48, 38X86, 38X93, 45X120, 48X144, 48X240, 48X48, 48X60, 48X69, 48X96, 52X140, 54X138, 54X65, 58X58, 44X55"
   },
   3992: {
@@ -36873,7 +36873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3992?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3993: {
@@ -36903,7 +36903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3993?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3994: {
@@ -36933,7 +36933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3994?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3995: {
@@ -36963,7 +36963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3995?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3996: {
@@ -36993,7 +36993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3996?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3997: {
@@ -37023,7 +37023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3997?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3998: {
@@ -37053,7 +37053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3998?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   3999: {
@@ -37083,7 +37083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/3999?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   4000: {
@@ -37113,7 +37113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4000?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   4001: {
@@ -37143,7 +37143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4001?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   4600: {
@@ -37173,7 +37173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4600?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14716: {
@@ -37203,7 +37203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14716?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14717: {
@@ -37233,7 +37233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14717?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14719: {
@@ -37263,7 +37263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14719?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14720: {
@@ -37293,7 +37293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14720?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14722: {
@@ -37323,7 +37323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14722?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14727: {
@@ -37353,7 +37353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14727?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14730: {
@@ -37383,7 +37383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14730?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14732: {
@@ -37413,7 +37413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14732?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14735: {
@@ -37443,7 +37443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14735?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14739: {
@@ -37473,7 +37473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14739?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14740: {
@@ -37503,7 +37503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14740?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14742: {
@@ -37533,7 +37533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14742?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14744: {
@@ -37563,7 +37563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14744?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14745: {
@@ -37593,7 +37593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14745?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14746: {
@@ -37623,7 +37623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14746?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14748: {
@@ -37653,7 +37653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14748?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14757: {
@@ -37683,7 +37683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14757?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14758: {
@@ -37713,7 +37713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14758?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14760: {
@@ -37743,7 +37743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14760?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14761: {
@@ -37773,7 +37773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14761?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14762: {
@@ -37803,7 +37803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14762?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14767: {
@@ -37833,7 +37833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14767?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14770: {
@@ -37863,7 +37863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14770?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14772: {
@@ -37893,7 +37893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14772?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14774: {
@@ -37923,7 +37923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14774?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14776: {
@@ -37953,7 +37953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14776?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14778: {
@@ -37983,7 +37983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14778?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14780: {
@@ -38013,7 +38013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14780?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14782: {
@@ -38043,7 +38043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14782?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14783: {
@@ -38073,7 +38073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14783?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14784: {
@@ -38103,7 +38103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14784?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14786: {
@@ -38133,7 +38133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14786?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14808: {
@@ -38163,7 +38163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14808?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14810: {
@@ -38193,7 +38193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14810?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14813: {
@@ -38223,7 +38223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14813?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14816: {
@@ -38253,7 +38253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14816?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14828: {
@@ -38283,7 +38283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14828?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14833: {
@@ -38313,7 +38313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14833?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14838: {
@@ -38343,7 +38343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14838?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14839: {
@@ -38373,7 +38373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14839?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14840: {
@@ -38403,7 +38403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14840?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14854: {
@@ -38433,7 +38433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14854?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14855: {
@@ -38463,7 +38463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14855?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14856: {
@@ -38493,7 +38493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14856?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14864: {
@@ -38523,7 +38523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14864?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14865: {
@@ -38553,7 +38553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14865?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14867: {
@@ -38583,7 +38583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14867?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14868: {
@@ -38613,7 +38613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14868?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14869: {
@@ -38643,7 +38643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14869?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14871: {
@@ -38673,7 +38673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14871?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14872: {
@@ -38703,7 +38703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14872?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14879: {
@@ -38733,7 +38733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14879?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14880: {
@@ -38763,7 +38763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14880?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14883: {
@@ -38793,7 +38793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14883?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14885: {
@@ -38823,7 +38823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14885?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14890: {
@@ -38853,7 +38853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14890?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14908: {
@@ -38883,7 +38883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14908?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14912: {
@@ -38913,7 +38913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14912?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14914: {
@@ -38943,7 +38943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14914?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14915: {
@@ -38973,7 +38973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14915?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14916: {
@@ -39003,7 +39003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14916?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14924: {
@@ -39033,7 +39033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14924?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14925: {
@@ -39063,7 +39063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14925?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14926: {
@@ -39093,7 +39093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14926?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14928: {
@@ -39123,7 +39123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14928?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14929: {
@@ -39153,7 +39153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14929?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14931: {
@@ -39183,7 +39183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14931?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14937: {
@@ -39213,7 +39213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14937?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14940: {
@@ -39243,7 +39243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14940?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14941: {
@@ -39273,7 +39273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14941?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14943: {
@@ -39303,7 +39303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14943?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14945: {
@@ -39333,7 +39333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14945?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14966: {
@@ -39363,7 +39363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14966?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14967: {
@@ -39393,7 +39393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14967?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14969: {
@@ -39423,7 +39423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14969?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14970: {
@@ -39453,7 +39453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14970?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14971: {
@@ -39483,7 +39483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14971?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14981: {
@@ -39513,7 +39513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14981?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14983: {
@@ -39543,7 +39543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14983?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14986: {
@@ -39573,7 +39573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14986?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14987: {
@@ -39603,7 +39603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14987?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14988: {
@@ -39633,7 +39633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14988?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   14990: {
@@ -39663,7 +39663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/14990?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15009: {
@@ -39693,7 +39693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15009?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15010: {
@@ -39723,7 +39723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15010?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15013: {
@@ -39753,7 +39753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15013?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15026: {
@@ -39783,7 +39783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15026?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15027: {
@@ -39813,7 +39813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15027?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15029: {
@@ -39843,7 +39843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15029?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15032: {
@@ -39873,7 +39873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15032?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15046: {
@@ -39903,7 +39903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15046?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15069: {
@@ -39933,7 +39933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15069?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15077: {
@@ -39963,7 +39963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15077?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15081: {
@@ -39993,7 +39993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15081?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15085: {
@@ -40023,7 +40023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15085?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15091: {
@@ -40053,7 +40053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15091?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   15097: {
@@ -40083,7 +40083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15097?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/outdoor-vinyl-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 36x96, 48x120, 48x72, 48x96, 24x120, 24x132, 24x144, 24x156, 24x180, 24x24, 24x30, 24x32, 24x42, 24x54, 24X60, 24x66, 24x72, 24x84, 24x90, 24x96, 30x120, 30x132, 30x144, 30x156, 30x180, 30x36, 30x40, 30x42, 30x48, 30x54, 30x60, 30x72, 30x78, 30x84, 30x90, 30x96, 36x132, 36x156, 36x180, 36x216, 36x42, 36x54, 36x78, 36x84, 36x90, 42x120, 42x144, 42x180, 42x52, 42x60, 42x72, 42x84, 42x90, 42x96, 43x72, 48x132, 48x144, 48x156, 48x180, 48x222, 48x60, 48x78, 48x84, 48x90, 49x78, 54x120, 54x144, 54x180, 54x72, 54x84, 54x96, 60x120, 60x132, 60x144, 60x156, 60x180, 60x72, 60x78, 60x84, 60x90, 60x96, 70x95, 72x120, 72x132, 72x144, 72x156, 72x180, 72x84, 72x90, 72x96, 84x120, 84x132, 84x144, 84x180, 84x84, 94x144, 96x108, 96x120, 96x144, 96x168, 96x216"
   },
   4002: {
@@ -40113,7 +40113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4002?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4003: {
@@ -40143,7 +40143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4003?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4004: {
@@ -40173,7 +40173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4004?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4005: {
@@ -40203,7 +40203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4005?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4006: {
@@ -40233,7 +40233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4006?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4007: {
@@ -40263,7 +40263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4007?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4008: {
@@ -40293,7 +40293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4008?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4010: {
@@ -40323,7 +40323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4010?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4011: {
@@ -40353,7 +40353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4011?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4009: {
@@ -40383,7 +40383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4009?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   4605: {
@@ -40413,7 +40413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/4605?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15141: {
@@ -40443,7 +40443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15141?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15143: {
@@ -40473,7 +40473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15143?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15144: {
@@ -40503,7 +40503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15144?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15149: {
@@ -40533,7 +40533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15149?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15150: {
@@ -40563,7 +40563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15150?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15152: {
@@ -40593,7 +40593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15152?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15154: {
@@ -40623,7 +40623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15154?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15156: {
@@ -40653,7 +40653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15156?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15163: {
@@ -40683,7 +40683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15163?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15176: {
@@ -40713,7 +40713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15176?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15178: {
@@ -40743,7 +40743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15178?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15187: {
@@ -40773,7 +40773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15187?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15188: {
@@ -40803,7 +40803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15188?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15197: {
@@ -40833,7 +40833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15197?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15200: {
@@ -40863,7 +40863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15200?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15204: {
@@ -40893,7 +40893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15204?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15212: {
@@ -40923,7 +40923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15212?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15213: {
@@ -40953,7 +40953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15213?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15214: {
@@ -40983,7 +40983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15214?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15230: {
@@ -41013,7 +41013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15230?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15232: {
@@ -41043,7 +41043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15232?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15233: {
@@ -41073,7 +41073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15233?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15234: {
@@ -41103,7 +41103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15234?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15242: {
@@ -41133,7 +41133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15242?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15243: {
@@ -41163,7 +41163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15243?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15248: {
@@ -41193,7 +41193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15248?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15249: {
@@ -41223,7 +41223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15249?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15256: {
@@ -41253,7 +41253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15256?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15257: {
@@ -41283,7 +41283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15257?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   15258: {
@@ -41313,7 +41313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/98/15258?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/mesh-banner.png",
 	"sizes_related": "24x36, 24x48, 36x120, 36x144, 36x48, 36x60, 36x72, 48x120, 48x72, 36x96, 48x96, 24x120, 24x144, 24x180, 24x57, 24x72, 24x96, 30x120, 30x72, 36x36, 48x144, 48x180, 48x60, 48x84, 60x120, 60x144, 60x180, 60x72, 60x84, 60x96, 72x120, 72x144, 72x156, 72x180, 72x72, 72x96, 84x120, 84x156, 96x120, 96x144, 96x168"
   },
   253: {
@@ -41343,7 +41343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/31/253?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/standard-rollup.png",
 	"sizes_related": "33x80, 47x80"
   },
   4231: {
@@ -41373,7 +41373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/31/4231?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/standard-rollup.png",
 	"sizes_related": "33x80, 47x80"
   },
   254: {
@@ -41403,7 +41403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/31/254?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/deluxe-rollup.png",
 	"sizes_related": "33x80"
   },
   4230: {
@@ -41433,7 +41433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/31/4230?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/economy-rollup.png",
 	"sizes_related": "24x60"
   },
   15486: {
@@ -41463,7 +41463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/31/15486?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/backdrop.png",
 	"sizes_related": "95X96"
   },
   3469: {
@@ -41493,7 +41493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3469?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   3462: {
@@ -41523,7 +41523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3462?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   3470: {
@@ -41553,7 +41553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3470?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   3463: {
@@ -41583,7 +41583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3463?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   3471: {
@@ -41613,7 +41613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3471?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   3464: {
@@ -41643,7 +41643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3464?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   3472: {
@@ -41673,7 +41673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3472?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   3465: {
@@ -41703,7 +41703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/3465?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   14036: {
@@ -41733,7 +41733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14036?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   14037: {
@@ -41763,7 +41763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14037?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   14146: {
@@ -41793,7 +41793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14146?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14148: {
@@ -41823,7 +41823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14148?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14150: {
@@ -41853,7 +41853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14150?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14151: {
@@ -41883,7 +41883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14151?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14154: {
@@ -41913,7 +41913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14154?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14157: {
@@ -41943,7 +41943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14157?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14159: {
@@ -41973,7 +41973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14159?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14158: {
@@ -42003,7 +42003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14158?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14147: {
@@ -42033,7 +42033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14147?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   14155: {
@@ -42063,7 +42063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14155?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 12x24, 16x24, 18x18, 20x24, 36x36, 6x24, 6x6, 6x36, 14x22, 36x46"
   },
   39515: {
@@ -42093,7 +42093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/39515?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   71881: {
@@ -42123,7 +42123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/71881?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/coroplast-sign.png",
 	"sizes_related": "12x18, 18x24, 24x24, 24x36, 10x10, 6x12, 36x36, 30x36"
   },
   14045: {
@@ -42153,7 +42153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14045?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14060: {
@@ -42183,7 +42183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14060?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14038: {
@@ -42213,7 +42213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14038?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14041: {
@@ -42243,7 +42243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14041?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14042: {
@@ -42273,7 +42273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14042?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14044: {
@@ -42303,7 +42303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14044?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14039: {
@@ -42333,7 +42333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14039?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14040: {
@@ -42363,7 +42363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14040?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14043: {
@@ -42393,7 +42393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14043?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14046: {
@@ -42423,7 +42423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14046?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14047: {
@@ -42453,7 +42453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14047?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14048: {
@@ -42483,7 +42483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14048?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14049: {
@@ -42513,7 +42513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14049?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14050: {
@@ -42543,7 +42543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14050?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14051: {
@@ -42573,7 +42573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14051?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14052: {
@@ -42603,7 +42603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14052?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14053: {
@@ -42633,7 +42633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14053?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14054: {
@@ -42663,7 +42663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14054?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14055: {
@@ -42693,7 +42693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14055?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14056: {
@@ -42723,7 +42723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14056?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14057: {
@@ -42753,7 +42753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14057?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14058: {
@@ -42783,7 +42783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14058?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14059: {
@@ -42813,7 +42813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14059?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14061: {
@@ -42843,7 +42843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14061?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14062: {
@@ -42873,7 +42873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14062?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14063: {
@@ -42903,7 +42903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14063?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14064: {
@@ -42933,7 +42933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14064?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14065: {
@@ -42963,7 +42963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14065?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26174: {
@@ -42993,7 +42993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26174?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26175: {
@@ -43023,7 +43023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26175?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26176: {
@@ -43053,7 +43053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26176?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26177: {
@@ -43083,7 +43083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26177?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26178: {
@@ -43113,7 +43113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26178?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26179: {
@@ -43143,7 +43143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26179?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26180: {
@@ -43173,7 +43173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26180?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26181: {
@@ -43203,7 +43203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26181?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26182: {
@@ -43233,7 +43233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26182?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26183: {
@@ -43263,7 +43263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26183?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26184: {
@@ -43293,7 +43293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26184?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26185: {
@@ -43323,7 +43323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26185?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26186: {
@@ -43353,7 +43353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26186?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26187: {
@@ -43383,7 +43383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26187?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26188: {
@@ -43413,7 +43413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26188?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26189: {
@@ -43443,7 +43443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26189?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26190: {
@@ -43473,7 +43473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26190?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26191: {
@@ -43503,7 +43503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26191?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26192: {
@@ -43533,7 +43533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26192?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26193: {
@@ -43563,7 +43563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26193?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26194: {
@@ -43593,7 +43593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26194?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26195: {
@@ -43623,7 +43623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26195?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26196: {
@@ -43653,7 +43653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26196?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26197: {
@@ -43683,7 +43683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26197?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26198: {
@@ -43713,7 +43713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26198?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26199: {
@@ -43743,7 +43743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26199?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26200: {
@@ -43773,7 +43773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26200?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26201: {
@@ -43803,7 +43803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26201?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26206: {
@@ -43833,7 +43833,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26206?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26207: {
@@ -43863,7 +43863,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26207?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26208: {
@@ -43893,7 +43893,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26208?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26209: {
@@ -43923,7 +43923,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26209?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26211: {
@@ -43953,7 +43953,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26211?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   26212: {
@@ -43983,7 +43983,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/26212?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27591: {
@@ -44013,7 +44013,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27591?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27592: {
@@ -44043,7 +44043,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27592?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27593: {
@@ -44073,7 +44073,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27593?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27594: {
@@ -44103,7 +44103,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27594?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27595: {
@@ -44133,7 +44133,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27595?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27596: {
@@ -44163,7 +44163,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27596?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27597: {
@@ -44193,7 +44193,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27597?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27598: {
@@ -44223,7 +44223,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27598?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27599: {
@@ -44253,7 +44253,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27599?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27600: {
@@ -44283,7 +44283,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27600?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27601: {
@@ -44313,7 +44313,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27601?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27602: {
@@ -44343,7 +44343,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27602?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   27603: {
@@ -44373,7 +44373,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27603?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/foam-core-sign.png",
 	"sizes_related": "12x18, 18x24, 10X10, 11X14, 11X17, 12X17, 10X12, 11X12, 12x12, 12X24, 12X32, 14X17, 14X31, 15X20, 15X40, 16X20, 16X21, 16X24, 16X25, 16X36, 17X22, 17X36, 18x18, 18X36, 18X40, 18X46, 20X20, 20X24, 24X31, 24X32, 24X33, 24x36, 24X40, 24X46, 26X40, 27X30, 27X40, 28X36, 28X40, 28X46, 30X30, 30X36, 30X40, 30X42, 30X45, 30X46, 31X37, 32X40, 32X46, 34X36, 34X44, 34X46, 35X46, 36x36, 36X40, 36X46, 6X12, 6X15, 6X24, 6X26, 8X10, 8X11, 20X26, 20X27, 20X28, 20X30, 20X44, 20X46, 22X28, 22X34, 22X36, 22X46, 24x24, 24X28, 24X30"
   },
   14114: {
@@ -44403,7 +44403,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14114?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14120: {
@@ -44433,7 +44433,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14120?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14112: {
@@ -44463,7 +44463,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14112?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14068: {
@@ -44493,7 +44493,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14068?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14113: {
@@ -44523,7 +44523,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14113?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14115: {
@@ -44553,7 +44553,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14115?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14116: {
@@ -44583,7 +44583,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14116?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14117: {
@@ -44613,7 +44613,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14117?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14118: {
@@ -44643,7 +44643,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14118?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14119: {
@@ -44673,7 +44673,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14119?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14121: {
@@ -44703,7 +44703,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14121?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14122: {
@@ -44733,7 +44733,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14122?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14078: {
@@ -44763,7 +44763,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14078?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14123: {
@@ -44793,7 +44793,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14123?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14124: {
@@ -44823,7 +44823,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14124?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14125: {
@@ -44853,7 +44853,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14125?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14126: {
@@ -44883,7 +44883,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14126?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14127: {
@@ -44913,7 +44913,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14127?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14128: {
@@ -44943,7 +44943,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14128?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14129: {
@@ -44973,7 +44973,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14129?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14130: {
@@ -45003,7 +45003,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14130?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14131: {
@@ -45033,7 +45033,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14131?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14132: {
@@ -45063,7 +45063,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14132?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14133: {
@@ -45093,7 +45093,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14133?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14092: {
@@ -45123,7 +45123,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14092?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14134: {
@@ -45153,7 +45153,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14134?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14135: {
@@ -45183,7 +45183,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14135?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14136: {
@@ -45213,7 +45213,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14136?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14137: {
@@ -45243,7 +45243,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14137?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14106: {
@@ -45273,7 +45273,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14106?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14108: {
@@ -45303,7 +45303,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/14108?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   27604: {
@@ -45333,7 +45333,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/84/27604?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/pvc-sign.png",
 	"sizes_related": "24x36, 6x12, 24x34, 10x10, 24x35, 27x36, 30x30, 30x36, 32x36, 36x36, 6x18, 6x24, 12x18, 6x25, 6x6, 6x7, 6x8, 6x9, 7x10, 7x7, 8x10, 8x11, 8x12, 8x24, 18x24, 8x8, 9x11, 9X12, 9x17, 24x24, 24x30, 36x46"
   },
   14347: {
@@ -45363,7 +45363,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14347?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14348: {
@@ -45393,7 +45393,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14348?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14349: {
@@ -45423,7 +45423,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14349?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14350: {
@@ -45453,7 +45453,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14350?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14351: {
@@ -45483,7 +45483,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14351?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14352: {
@@ -45513,7 +45513,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14352?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14353: {
@@ -45543,7 +45543,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14353?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   14354: {
@@ -45573,7 +45573,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/37/14354?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/car-magnet.png",
 	"sizes_related": "12X18, 12X24, 18X18, 18X24, 18X30, 24X36, 9X12, 9X18"
   },
   4765: {
@@ -45603,7 +45603,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/39/4765?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/counter-card.png",
 	"sizes_related": "5.5x8.5, 8.5x11, 9x12"
   },
   4766: {
@@ -45633,7 +45633,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/39/4766?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/counter-card.png",
 	"sizes_related": "5.5x8.5, 8.5x11, 9x12"
   },
   4767: {
@@ -45663,7 +45663,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/39/4767?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/counter-card.png",
 	"sizes_related": "5.5x8.5, 8.5x11, 9x12"
   },
   4768: {
@@ -45693,7 +45693,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/39/4768?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/counter-card.png",
 	"sizes_related": "5.5x8.5, 8.5x11, 9x12"
   },
   4769: {
@@ -45723,7 +45723,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/39/4769?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/counter-card.png",
 	"sizes_related": "5.5x8.5, 8.5x11, 9x12"
   },
   4770: {
@@ -45753,7 +45753,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/39/4770?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/counter-card.png",
 	"sizes_related": "5.5x8.5, 8.5x11, 9x12"
   },
   4404: {
@@ -45783,7 +45783,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4404?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-feather.png",
 	"sizes_related": "24x81, 32x99, 32x123, 36x123, 37x161"
   },
   4406: {
@@ -45813,7 +45813,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4406?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-feather.png",
 	"sizes_related": "24x81, 32x99, 32x123, 36x123, 37x161"
   },
   4405: {
@@ -45843,7 +45843,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4405?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-feather.png",
 	"sizes_related": "24x81, 32x99, 32x123, 36x123, 37x161"
   },
   4407: {
@@ -45873,7 +45873,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4407?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-feather.png",
 	"sizes_related": "24x81, 32x99, 32x123, 36x123, 37x161"
   },
   4408: {
@@ -45903,7 +45903,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4408?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-feather.png",
 	"sizes_related": "24x81, 32x99, 32x123, 36x123, 37x161"
   },
   15369: {
@@ -45933,7 +45933,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/15369?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-pole.png",
 	"sizes_related": "24x36, 36x60, 48x72"
   },
   15370: {
@@ -45963,7 +45963,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/15370?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-pole.png",
 	"sizes_related": "24x36, 36x60, 48x72"
   },
   15371: {
@@ -45993,7 +45993,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/15371?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-pole.png",
 	"sizes_related": "24x36, 36x60, 48x72"
   },
   4409: {
@@ -46023,7 +46023,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4409?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-teardrop.png",
 	"sizes_related": "32x70, 44x87, 45x97, 57x142"
   },
   4410: {
@@ -46053,7 +46053,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4410?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-teardrop.png",
 	"sizes_related": "32x70, 44x87, 45x97, 57x142"
   },
   4411: {
@@ -46083,7 +46083,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4411?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-teardrop.png",
 	"sizes_related": "32x70, 44x87, 45x97, 57x142"
   },
   4412: {
@@ -46113,7 +46113,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/49/4412?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/flag-teardrop.png",
 	"sizes_related": "32x70, 44x87, 45x97, 57x142"
   },
   4657: {
@@ -46143,7 +46143,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/4657?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "11x17, 12x18, 11.5x17.5"
   },
   4655: {
@@ -46173,7 +46173,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/4655?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   4658: {
@@ -46203,7 +46203,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/4658?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "11x17, 12x18, 11.5x17.5"
   },
   4654: {
@@ -46233,7 +46233,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/4654?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   4656: {
@@ -46263,7 +46263,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/4656?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "11x17, 12x18, 11.5x17.5"
   },
   2927: {
@@ -46293,7 +46293,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/2927?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   2928: {
@@ -46323,7 +46323,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/2928?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   2929: {
@@ -46353,7 +46353,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/2929?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   2930: {
@@ -46383,7 +46383,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/2930?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   2931: {
@@ -46413,7 +46413,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/2931?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "12x18, 11.5x17.5, 13x19, 18x24, 19x27, 24x36, 26x39"
   },
   29203: {
@@ -46443,7 +46443,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/29203?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "18x24, 24x36"
   },
   29204: {
@@ -46473,7 +46473,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/75/29204?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/posters.png",
 	"sizes_related": "18x24, 24x36"
   },
   25294: {
@@ -46503,7 +46503,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/126/25294?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/sidewalk-sign.png",
 	"sizes_related": "24x36"
   },
   5847: {
@@ -46533,7 +46533,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/5847?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   5848: {
@@ -46563,7 +46563,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/5848?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   3893: {
@@ -46593,7 +46593,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/3893?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   3891: {
@@ -46623,7 +46623,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/3891?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   3892: {
@@ -46653,7 +46653,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/3892?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   3894: {
@@ -46683,7 +46683,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/3894?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   7066: {
@@ -46713,7 +46713,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/7066?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   7067: {
@@ -46743,7 +46743,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/7067?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   7070: {
@@ -46773,7 +46773,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/7070?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   },
   7071: {
@@ -46803,7 +46803,7 @@ const kpValueId = {
 	"cover_coating_ID": null,
 	"cover_coating_related": null,
 	"url": "https://store.kingdom-print.com/store/product-view.html/90/7071?dp=1",
-	"img": null,
+	"img": "https://s3.amazonaws.com/autoprint/115/cms_images/2146/table-tent.png",
 	"sizes_related": "4x16.25, 5x16.5"
   }
 };
