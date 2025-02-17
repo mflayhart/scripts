@@ -731,7 +731,7 @@ const kpValueId = {
 	"product_id_related": [1414],
 	"category": "Business Cards",
 	"sub_category": "PREMIUM CARDS",
-	"nested_name": "Linen Uncoated Business Cards",
+	"nested_name": "Linen Business Cards",
 	"sub_nested_name": null,
 	"product_name_PB": "2x3.5 - Business Cards linen cover",
 	"material_type_PB": "100LB Cover Linen",
